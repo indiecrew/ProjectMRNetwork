@@ -50,7 +50,7 @@
 	</extension>
 	<extension point="xbmc.addon.metadata">
 	    <summary>Sumber RTM, Media Prima dan lain-lain</summary>
-		<description>Mengandungi IPTV dan Movie</description>
+		<description>Mengandungi IPTV dan Movie khas dari kami, MR Network</description>
 		<disclaimer>Addons dalam repo ini adalah PERCUMA!.</disclaimer>
 		<platform>all</platform>
 	</extension>
