@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-<addon id="plugin.video.mr.network.tv" name="MR Network TV" version="2.0.0" provider-name="indiecrew">
+<addon id="plugin.video.mr.network.tv" name="MR Network TV" version="2.0.0" provider-name="Indiecrew, MalayRevolution Network">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
   </requires>
@@ -21,7 +21,7 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.aseantv" name="Asean TV" version="1.0.2" provider-name="indiecrew">
+<addon id="plugin.video.aseantv" name="Asean TV" version="1.0.2" provider-name="Indiecrew, MalayRevolution Network">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
   </requires>
@@ -29,12 +29,12 @@
     <provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
-    <summary lang="en">Asean TV</summary>
-    <description lang="en">Addons ini adalah PERCUMA!!</description>
+    <summary lang="en">Asean Live TV Channels Add-on</summary>
+    <description lang="en">Putting together Asean-based media content from a variety of local sources. List of tv channels from Malaysia, Singapore, Indonesia, Thailand, Vietnam, Myanmar, Cambodia, Laos, Philippines and Brunei. This add-on is not for sale.</description>
     <disclaimer lang="en">Addons ini adalah PERCUMA</disclaimer>
-    <language></language>
+    <language>en</language>
     <platform>all</platform>
-    <license></license>
+    <license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license>
     <forum></forum>
     <website></website>
     <email></email>
@@ -42,7 +42,7 @@
   </extension>
 </addon>
 
-<addon id="repository.projectmrnetwork" name="Project MR Network" version="1.0.0" provider-name="indiecrew">
+<addon id="repository.projectmrnetwork" name="Project MR Network" version="1.0.0" provider-name="Indiecrew, MalayRevolution Network">
 	<extension point="xbmc.addon.repository" name="IPTV dan Movie">
 		<info compressed="false">https://raw.githubusercontent.com/indiecrew/ProjectMRNetwork/master/addons.xml</info>
 		<checksum>https://raw.githubusercontent.com/indiecrew/ProjectMRNetwork/master/addons.xml.md5</checksum>
