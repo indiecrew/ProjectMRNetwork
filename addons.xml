@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addons>
+<addon id="plugin.video.mr.network.tv" name="MR Network TV" version="2.0.0" provider-name="indiecrew">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">MR Network TV</summary>
+    <description lang="en">Addons ini adalah PERCUMA!!</description>
+    <disclaimer lang="en">Addons ini adalah PERCUMA</disclaimer>
+    <language></language>
+    <platform>all</platform>
+    <license></license>
+    <forum></forum>
+    <website></website>
+    <email></email>
+    <source></source>
+  </extension>
+</addon>
+
+<addon id="plugin.video.aseantv" name="Asean TV" version="1.0.2" provider-name="indiecrew">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Asean TV</summary>
+    <description lang="en">Addons ini adalah PERCUMA!!</description>
+    <disclaimer lang="en">Addons ini adalah PERCUMA</disclaimer>
+    <language></language>
+    <platform>all</platform>
+    <license></license>
+    <forum></forum>
+    <website></website>
+    <email></email>
+    <source></source>
+  </extension>
+</addon>
+
+<addon id="repository.projectmrnetwork" name="Project MR Network" version="1.0.0" provider-name="indiecrew">
+	<extension point="xbmc.addon.repository" name="IPTV dan Movie">
+		<info compressed="false">https://raw.githubusercontent.com/indiecrew/ProjectMRNetwork/master/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/indiecrew/ProjectMRNetwork/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.github.com/indiecrew/ProjectMRNetwork/master/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+	    <summary>Sumber RTM, Media Prima dan lain-lain</summary>
+		<description>Mengandungi IPTV dan Movie</description>
+		<disclaimer>Addons dalam repo ini adalah PERCUMA!.</disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>
+</addons>
