@@ -43,15 +43,15 @@
 </addon>
 
 <addon id="repository.projectmrnetwork" name="Project MR Network" version="1.0.0" provider-name="Indiecrew, MalayRevolution Network">
-	<extension point="xbmc.addon.repository" name="IPTV dan Movie">
+	<extension point="xbmc.addon.repository" name="MR Network Unofficial Add-on Repository">
 		<info compressed="false">https://raw.githubusercontent.com/indiecrew/ProjectMRNetwork/master/addons.xml</info>
 		<checksum>https://raw.githubusercontent.com/indiecrew/ProjectMRNetwork/master/addons.xml.md5</checksum>
 		<datadir zip="true">https://raw.github.com/indiecrew/ProjectMRNetwork/master/</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-	    <summary>Sumber RTM, Media Prima dan lain-lain</summary>
-		<description>Mengandungi IPTV dan Movie khas dari kami, MR Network</description>
-		<disclaimer>Addons dalam repo ini adalah PERCUMA!.</disclaimer>
+	    <summary lang="en">Install Add-ons from MR Network Unofficial Add-on Repository.</summary>
+		<description lang="en">Download and install add-ons from MR Network unofficial add-on repository.[CR][CR]By using this repository you will be able to take advantage of cutting edge features our contributors constantly develop and update.[CR][CR]Thanks to all our contributors.</description>
+		<disclaimer lang="en">MR Network not responsible for all add-ons on this repository</disclaimer>
 		<platform>all</platform>
 	</extension>
 </addon>
