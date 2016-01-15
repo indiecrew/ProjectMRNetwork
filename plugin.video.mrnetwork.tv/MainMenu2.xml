@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <channel>
-<name>[COLOR=FFFFFF00]SINGAPORE CHANNELS[/COLOR]</name>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/flag_singapore_zpstwbuebrd.png</thumbnail>
+<name>[COLOR=FFFFFF00]BRUNEI CHANNELS[/COLOR]</name>
+<thumbnail>http://img.freeflagicons.com/thumb/square_icon/brunei/brunei_640.png</thumbnail>
+<fanart>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsyx9pb7xu.png</fanart>
+<link>http://ignoreme</link>
+<externallink>xxxx</externallink>
+</channel>
+
+<channel>
+<name>[COLOR=FFFFFF00]CHINA CHANNELS[/COLOR]</name>
+<thumbnail>http://img.freeflagicons.com/thumb/square_icon/china/china_640.png</thumbnail>
 <fanart>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsyx9pb7xu.png</fanart>
 <link>http://ignoreme</link>
 <externallink>xxxx</externallink>
@@ -10,23 +18,15 @@
 
 <channel>
 <name>[COLOR=FFFFFF00]INDONESIA CHANNELS[/COLOR]</name>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/flag_indonesia_zps36vcwn69.png</thumbnail>
+<thumbnail>http://img.freeflagicons.com/thumb/square_icon/indonesia/indonesia_640.png</thumbnail>
 <fanart>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsyx9pb7xu.png</fanart>
 <link>http://ignoreme</link>
 <externallink>xxxx</externallink>
 </channel>
 
 <channel>
-<name>[COLOR=FFFFFF00]BRUNEI CHANNELS[/COLOR]</name>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/flag_brunei_zps2vyajnmx.png</thumbnail>
-<fanart>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsyx9pb7xu.png</fanart>
-<link>http://ignoreme</link>
-<externallink>xxxx</externallink>
-</channel>
-
-<channel>
-<name>[COLOR=FFFFFF00]SOUTH KOREA CHANNELS[/COLOR]</name>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/flag_south_korea_zpsw3cdrvop.png</thumbnail>
+<name>[COLOR=FFFFFF00]INDIA CHANNELS[/COLOR]</name>
+<thumbnail>http://img.freeflagicons.com/thumb/square_icon/india/india_640.png</thumbnail>
 <fanart>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsyx9pb7xu.png</fanart>
 <link>http://ignoreme</link>
 <externallink>xxxx</externallink>
@@ -34,7 +34,23 @@
 
 <channel>
 <name>[COLOR=FFFFFF00]JAPAN CHANNELS[/COLOR]</name>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/flag_of_japan_zpsgii6vlsc.png</thumbnail>
+<thumbnail>http://img.freeflagicons.com/thumb/square_icon/japan/japan_640.png</thumbnail>
+<fanart>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsyx9pb7xu.png</fanart>
+<link>http://ignoreme</link>
+<externallink>xxxx</externallink>
+</channel>
+
+<channel>
+<name>[COLOR=FFFFFF00]SINGAPORE CHANNELS[/COLOR]</name>
+<thumbnail>http://img.freeflagicons.com/thumb/square_icon/singapore/singapore_640.png</thumbnail>
+<fanart>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsyx9pb7xu.png</fanart>
+<link>http://ignoreme</link>
+<externallink>xxxx</externallink>
+</channel>
+
+<channel>
+<name>[COLOR=FFFFFF00]SOUTH KOREA CHANNELS[/COLOR]</name>
+<thumbnail>http://img.freeflagicons.com/thumb/square_icon/korea_south/korea_south_640.png</thumbnail>
 <fanart>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsyx9pb7xu.png</fanart>
 <link>http://ignoreme</link>
 <externallink>xxxx</externallink>
@@ -42,7 +58,23 @@
 
 <channel>
 <name>[COLOR=FFFFFF00]UK CHANNELS[/COLOR]</name>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/flag_of_uk_zpsnd75adp1.png</thumbnail>
+<thumbnail>http://img.freeflagicons.com/thumb/square_icon/united_kingdom/united_kingdom_640.png</thumbnail>
+<fanart>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsyx9pb7xu.png</fanart>
+<link>http://ignoreme</link>
+<externallink>xxxx</externallink>
+</channel>
+
+<channel>
+<name>[COLOR=FFFFFF00]UAE CHANNELS[/COLOR]</name>
+<thumbnail>http://img.freeflagicons.com/thumb/square_icon/united_arab_emirates/united_arab_emirates_640.png</thumbnail>
+<fanart>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsyx9pb7xu.png</fanart>
+<link>http://ignoreme</link>
+<externallink>xxxx</externallink>
+</channel>
+
+<channel>
+<name>[COLOR=FFFFFF00]US CHANNELS[/COLOR]</name>
+<thumbnail>http://img.freeflagicons.com/thumb/square_icon/united_states_of_america/united_states_of_america_640.png</thumbnail>
 <fanart>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsyx9pb7xu.png</fanart>
 <link>http://ignoreme</link>
 <externallink>xxxx</externallink>
