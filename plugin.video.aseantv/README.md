@@ -2,9 +2,9 @@
 Plugin.video.aseantv
 =====================
 
-XBMC/Kodi Addon for Asean TV
+Asean TV Add-on for KODI/XBMC
 
-ASEAN TV was first released on Aug 31 2015 - primarily for myself to catch up on local Asean country tv shows. Live tv channel from Asean country such as Malaysia, Singapore, Indonesia, Thailand, Loas, Vietnam, Cambodia, Philippines, Brunei and Myanmar is now published on Github
+ASEAN TV was first released on Aug 31 2015 - primarily for myself to catch up live tv from Asean country. 
 
 Indiecrew, MalayRevolution Network
 
