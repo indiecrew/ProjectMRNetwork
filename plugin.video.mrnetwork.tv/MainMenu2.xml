@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
+<channels>
 <channel>
 <name>[COLOR=FFFFFF00]BRUNEI CHANNELS[/COLOR]</name>
 <thumbnail>http://img.freeflagicons.com/thumb/square_icon/brunei/brunei_640.png</thumbnail>
@@ -127,3 +128,4 @@
 <link>http://ignoreme</link>
 <externallink>xxxx</externallink>
 </channel>
+</channels>
