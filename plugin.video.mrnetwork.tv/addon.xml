@@ -1,1 +1,26 @@
-test
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<addon id="plugin.video.aseantv"
+       name="ASEAN TV"
+       version="1.0.2"
+       provider-name="Indiecrew, MalayRevolution Network">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+  </extension>
+  
+  <extension point="xbmc.addon.metadata">  
+  <summary lang="en">Asean Live TV Channels Add-on</summary>
+    <description lang="en">Putting together Asean-based media content from a variety of local sources. List of tv channels from Malaysia, Singapore, Indonesia, Thailand, Vietnam, Myanmar, Cambodia, Laos, Philippines and Brunei. This add-on is not for sale</description>
+    <platform>all</platform>
+	<language>en</language>
+	<license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license>
+	<forum></forum>
+    <website></website>
+    <email></email>
+    <source></source>
+	</extension>
+</addon>
