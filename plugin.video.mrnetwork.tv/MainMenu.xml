@@ -6,7 +6,7 @@
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/flag_malaysia_zpsb9ongvze.png</thumbnail>
 <fanart>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsyx9pb7xu.png</fanart>
 <link>http://ignoreme</link>
-<externallink>https://goo.gl/r3BGfi</externallink>
+<externallink>https://raw.githubusercontent.com/indiecrew/masterlist/master/MY.xml</externallink>
 </channel>
  
 <channel>
@@ -14,7 +14,7 @@
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/flag_world_zpsic7ttnuh.png</thumbnail>
 <fanart>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsyx9pb7xu.png</fanart>
 <link>http://ignoreme</link>
-<externallink>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/flag_world_zpsic7ttnuh.png</externallink>
+<externallink>https://raw.githubusercontent.com/indiecrew/ProjectMRNetwork/master/plugin.video.mrnetwork.tv/MainMenu2.xml</externallink>
 </channel>
 
 <channel>
@@ -22,7 +22,7 @@
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/flag_world_zpsic7ttnuh.png</thumbnail>
 <fanart>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsyx9pb7xu.png</fanart>
 <link>http://ignoreme</link>
-<externallink>https://goo.gl/dlUdhR</externallink>
+<externallink>https://raw.githubusercontent.com/indiecrew/masterlist/master/news.xml</externallink>
 </channel>
 
 <channel>
@@ -30,7 +30,7 @@
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/flag_world_zpsic7ttnuh.png</thumbnail>
 <fanart>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsyx9pb7xu.png</fanart>
 <link>http://ignoreme</link>
-<externallink>https://goo.gl/FIQdm4</externallink>
+<externallink>https://raw.githubusercontent.com/indiecrew/masterlist/master/movies-eng.xml</externallink>
 </channel>
 
 <channel>
@@ -38,7 +38,7 @@
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/flag_world_zpsic7ttnuh.png</thumbnail>
 <fanart>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsyx9pb7xu.png</fanart>
 <link>http://ignoreme</link>
-<externallink>https://goo.gl/QDnI7z</externallink>
+<externallink>https://raw.githubusercontent.com/indiecrew/masterlist/master/movie-neng.xml</externallink>
 </channel>
 
 <channel>
@@ -46,7 +46,7 @@
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/flag_world_zpsic7ttnuh.png</thumbnail>
 <fanart>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsyx9pb7xu.png</fanart>
 <link>http://ignoreme</link>
-<externallink>https://goo.gl/KUeyHj</externallink>
+<externallink>https://raw.githubusercontent.com/indiecrew/masterlist/master/kids.xml</externallink>
 </channel>
 
 <channel>
@@ -54,7 +54,7 @@
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/flag_world_zpsic7ttnuh.png</thumbnail>
 <fanart>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsyx9pb7xu.png</fanart>
 <link>http://ignoreme</link>
-<externallink>https://goo.gl/kq0kxJ</externallink>
+<externallink>https://raw.githubusercontent.com/indiecrew/masterlist/master/sports.xml</externallink>
 </channel>
 
 <channel>
@@ -62,6 +62,6 @@
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/vod_zps7qwtwmsy.png</thumbnail>
 <fanart>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsyx9pb7xu.png</fanart>
 <link>http://ignoreme</link>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/indiecrew/masterlist/master/movie-malay.xml</externallink>
 </channel>
 </channels>
