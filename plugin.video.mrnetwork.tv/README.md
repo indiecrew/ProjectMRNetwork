@@ -11,14 +11,14 @@ Changelog
 =====================
 
 V2.0.0
-Second public release with the repository
-Add more channel
-Fix bug issued
-Fix dead link
-Suitable for kodi version 15
+- Second public release with the repository
+- Add more channel
+- Fix bug issued
+- Fix dead link
+- Suitable for kodi version 15
 
 V1.1.0
-First public release
+- First public release
 
 V1.0.0
-Initial test release
+- Initial test release
