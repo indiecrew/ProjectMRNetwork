@@ -1,43 +1,59 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-<addon id="plugin.video.mr.network.tv" name="MR Network TV" version="2.0.0" provider-name="Indiecrew, MalayRevolution Network">
+<addon id="plugin.video.mrnetwork.tv" name="MR Network TV" version="2.0.0" provider-name="Indiecrew, MalayRevolution Network">
   <requires>
-    <import addon="xbmc.python" version="2.1.0"/>
+    	<import addon="xbmc.python" version="2.1.0" />
+	<import addon="script.module.beautifulsoup4"/>
+	<import addon="script.module.simple.downloader" version="0.9.4"/>
+	<import addon="script.module.requests"/>
+	<import addon="script.module.httplib2"/>
+	<import addon="script.module.youtube.dl" optional="true"/>
+	<import addon="plugin.video.youtube"/>
+	<import addon="script.module.urlresolver" optional="true"/>
+	<import addon="script.module.simplejson"/>
   </requires>
   <extension point="xbmc.python.pluginsource" library="default.py">
     <provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
-    <summary lang="en">MR Network TV</summary>
-    <description lang="en">Addons ini adalah PERCUMA!!</description>
-    <disclaimer lang="en">Addons ini adalah PERCUMA</disclaimer>
-    <language></language>
+    <summary lang="en">Live TV Channel from MalayRevolution Network TV</summary>
+    <description lang="en">MalayRevolution Network TV is an open source project. This add-on is not for sale but for private usage only.</description>
+    <disclaimer lang="en">We DO NOT host any streams or videos on this addon. All content is copyright of their respective owners. We urge all copyright owners, to recognize that links contained within this addon are located somewhere else on the web. The embedded link points to the location of the video on the web. Please direct all copyright infringement issues to the companies that host these files. If you notice something irregular or some copyright abuse please send email to us. Furthermore we take no responsibility for the content or reliability of the feeds. Enjoy while you can.</disclaimer>
     <platform>all</platform>
-    <license></license>
+    <language>en</language>
+    <license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license>
     <forum></forum>
     <website></website>
-    <email></email>
+    <email>indiecrewteam[at]gmail.com</email>
     <source></source>
   </extension>
 </addon>
 
-<addon id="plugin.video.aseantv" name="Asean TV" version="1.0.2" provider-name="Indiecrew, MalayRevolution Network">
+<addon id="plugin.video.islamicstreams.tv" name="Islamic Streams TV" version="1.0.0" provider-name="Indiecrew, MalayRevolution Network">
   <requires>
-    <import addon="xbmc.python" version="2.1.0"/>
+    	<import addon="xbmc.python" version="2.1.0" />
+	<import addon="script.module.beautifulsoup4"/>
+	<import addon="script.module.simple.downloader" version="0.9.4"/>
+	<import addon="script.module.requests"/>
+	<import addon="script.module.httplib2"/>
+	<import addon="script.module.youtube.dl" optional="true"/>
+	<import addon="plugin.video.youtube"/>
+	<import addon="script.module.urlresolver" optional="true"/>
+	<import addon="script.module.simplejson"/>
   </requires>
   <extension point="xbmc.python.pluginsource" library="default.py">
     <provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
-    <summary lang="en">Asean Live TV Channels Add-on</summary>
-    <description lang="en">Putting together Asean-based media content from a variety of local sources. List of tv channels from Malaysia, Singapore, Indonesia, Thailand, Vietnam, Myanmar, Cambodia, Laos, Philippines and Brunei. This add-on is not for sale.</description>
-    <disclaimer lang="en">Addons ini adalah PERCUMA</disclaimer>
-    <language>en</language>
+    <summary lang="en">Islamic Streams TV</summary>
+    <description lang="en">This add-on is not for sale but for private usage only.</description>
+    <disclaimer lang="en">We DO NOT host any streams or videos on this addon. All content is copyright of their respective owners. We urge all copyright owners, to recognize that links contained within this addon are located somewhere else on the web. The embedded link points to the location of the video on the web. Please direct all copyright infringement issues to the companies that host these files. If you notice something irregular or some copyright abuse please send email to us. Furthermore we take no responsibility for the content or reliability of the feeds. Enjoy while you can.</disclaimer>
     <platform>all</platform>
+    <language>en</language>
     <license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license>
     <forum></forum>
     <website></website>
-    <email></email>
+    <email>indiecrewteam[at]gmail.com</email>
     <source></source>
   </extension>
 </addon>
