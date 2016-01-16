@@ -2,7 +2,7 @@
 
 - the second release of the MalayRevolution Network TV addon with the repository
 - add more channel
-- fix bug issued
+- bugfixes
 - fix dead link
 - suitable for kodi version 15
 
