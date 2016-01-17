@@ -16,7 +16,7 @@
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/flag_malaysia_zpsb9ongvze.png</thumbnail>
 <fanart>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsyx9pb7xu.png</fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/indiecrew/masterlist/master/MY.xml</externallink>
+<externallink>https://raw.githubusercontent.com/indiecrew/ProjectMRNetwork/master/plugin.video.mrnetwork.tv/test.xml</externallink>
 </channel>
  
 <channel>
@@ -24,7 +24,7 @@
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/flag_world_zpsic7ttnuh.png</thumbnail>
 <fanart>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsyx9pb7xu.png</fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/indiecrew/ProjectMRNetwork/master/plugin.video.mrnetwork.tv/MainMenu2.xml</externallink>
+<externallink>https://raw.githubusercontent.com/indiecrew/ProjectMRNetwork/master/plugin.video.mrnetwork.tv/test.xml</externallink>
 </channel>
 
 <channel>
@@ -32,7 +32,7 @@
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/flag_world_zpsic7ttnuh.png</thumbnail>
 <fanart>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsyx9pb7xu.png</fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/indiecrew/masterlist/master/news.xml</externallink>
+<externallink>https://raw.githubusercontent.com/indiecrew/ProjectMRNetwork/master/plugin.video.mrnetwork.tv/test.xml</externallink>
 </channel>
 
 <channel>
@@ -40,7 +40,7 @@
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/flag_world_zpsic7ttnuh.png</thumbnail>
 <fanart>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsyx9pb7xu.png</fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/indiecrew/masterlist/master/movies-eng.xml</externallink>
+<externallink>https://raw.githubusercontent.com/indiecrew/ProjectMRNetwork/master/plugin.video.mrnetwork.tv/test.xml</externallink>
 </channel>
 
 <channel>
@@ -48,7 +48,7 @@
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/flag_world_zpsic7ttnuh.png</thumbnail>
 <fanart>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsyx9pb7xu.png</fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/indiecrew/masterlist/master/movie-neng.xml</externallink>
+<externallink>https://raw.githubusercontent.com/indiecrew/ProjectMRNetwork/master/plugin.video.mrnetwork.tv/test.xml</externallink>
 </channel>
 
 <channel>
@@ -56,7 +56,7 @@
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/flag_world_zpsic7ttnuh.png</thumbnail>
 <fanart>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsyx9pb7xu.png</fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/indiecrew/masterlist/master/kids.xml</externallink>
+<externallink>https://raw.githubusercontent.com/indiecrew/ProjectMRNetwork/master/plugin.video.mrnetwork.tv/test.xml</externallink>
 </channel>
 
 <channel>
@@ -64,7 +64,7 @@
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/flag_world_zpsic7ttnuh.png</thumbnail>
 <fanart>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsyx9pb7xu.png</fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/indiecrew/masterlist/master/sports.xml</externallink>
+<externallink>https://raw.githubusercontent.com/indiecrew/ProjectMRNetwork/master/plugin.video.mrnetwork.tv/test.xml</externallink>
 </channel>
 
 <channel>
@@ -72,6 +72,6 @@
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/vod_zps7qwtwmsy.png</thumbnail>
 <fanart>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsyx9pb7xu.png</fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/indiecrew/masterlist/master/movie-malay.xml</externallink>
+<externallink>https://raw.githubusercontent.com/indiecrew/ProjectMRNetwork/master/plugin.video.mrnetwork.tv/test.xml</externallink>
 </channel>
 </channels>
