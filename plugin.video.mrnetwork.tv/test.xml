@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+<item>
+<title>TV1</title>
+<link>$doregex[url]|user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0</link>
+<regex>
+	<name>url</name>
+	<expres>$pyFunction:urllib.unquote('$doregex[get-url]')</expres>
+	<page></page>
+</regex>
+<regex>
+	<name>get-url</name>
+	<expres>src:"(.*?)"<expres>
+	<page>http://myklik.rtm.gov.my/player/streamer.php?channel=rtm-ch001</page>
+	<referer>http://myklik.rtm.gov.my/tv1<referer>
+</regex>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_tv1_zps8mlj4nck.png</thumbnail>
+<fanart></fanart>
+</item>
