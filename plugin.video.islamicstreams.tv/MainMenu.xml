@@ -1,2 +1,1424 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
+<channels>
+<channels_info>
+<title>Islamic Streams</title>
+<genre>Religious</genre>
+<description>Its all about Islam</description>
+<thumbnail>http://www.islamicdesktop.net/download/Islamic_Wallpaper_Quran_004-1366x768.jpg</thumbnail>
+<fanart>http://th06.deviantart.net/fs70/f/2010/184/7/e/reading_Quran_al_Karim_by_islamicwallpers.jpg</fanart>
+<date>15.04.2015</date>
+<credits>Abu Ammar</credits>
+</channels_info>
+
+<channel>
+<name>Live TV</name>
+<info>Live TV from Makkah and Madinah</info>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+<items>
+<item>
+<title>Masjid al-Haram, Makkah</title>
+<link>plugin://plugin.video.youtube/play/?video_id=ArVmnth5jB4</link>
+<thumbnail>https://worldreligion4790.files.wordpress.com/2012/10/hajj2.jpg</thumbnail>
+</item>
+
+<item>
+<title>Al-Masjid an-Nabawi, Madinah</title>
+<link>plugin://plugin.video.youtube/play/?video_id=4OoKpZWJASY</link>
+<thumbnail>http://www.lazywazy.in/wp-content/uploads/2015/09/masjid-nabawi-madinatul-munawwaroh2.jpg</thumbnail>                
+</item>
+</items>
+</channel>
+
+<channel>
+<name>Bacaan Al-Quran 30 Juz</name>
+<info>AlQuran recitation from AlFatihah until An-nas</info>
+<thumbnail>http://www.islamicdesktop.net/download/Islamic_Wallpaper_Quran_004-1366x768.jpg</thumbnail>
+<fanart>http://th06.deviantart.net/fs70/f/2010/184/7/e/reading_Quran_al_Karim_by_islamicwallpers.jpg</fanart>
+<items>
+<item>
+<title>Sheikh Mishary Rashid Alafasy</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLeDyFNw0r3RqCioW-2w0ZxhM5ekDR6uZZ</link>
+<thumbnail>http://www.islamicdesktop.net/download/Islamic_Wallpaper_Quran_004-1366x768.jpg</thumbnail>
+</item>
+
+<item>
+<title>Sheikh Sa'ad Said Al-Ghamdi</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLFBCB5C33480F350C</link>
+<thumbnail>http://www.islamicdesktop.net/download/Islamic_Wallpaper_Quran_004-1366x768.jpg</thumbnail>                
+</item>
+</items>
+</channel>
+
+<channel>
+<name>Himpunan Kuliah Agama (Sumber dari YouTube)</name>
+<info>Koleksi Ceramah Daripada Ustaz-Ustaz Tersohor</info>
+<thumbnail>https://www.youtube.com/yt/brand/media/image/YouTube-logo-full_color.png</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+<items>
+<item>
+<title>[COLOR orange]Sumber : Telaga Biru [/COLOR]</title>
+<link>.</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+<info>.</info>
+</item>
+
+<item>
+<title>Ust. Dr. Hj. Zahazan Mohamed</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLfVZeivIZ4wBi_y86ilKIGGx6mQ8mJXB-&amp;video_id=gWn_gOVLeWc&amp;order=default</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>Ust. Ahmad Fauwaz Fadzil</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLfVZeivIZ4wBL7zcRC5eCx6pBGgfkYFYD&amp;video_id=ZsVBrS8SkR8&amp;order=default</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>Ust. Umar Muhammad Noor</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLfVZeivIZ4wAltHpdUrMo2yafEfuoAHjB&amp;video_id=j9oVsjBOmuE&amp;order=default</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange] LIST : LAMAN AN-NUR [/COLOR]</title>
+<link>.</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+<info>.</info>
+</item>
+
+<item>
+<title>LAMAN AN-NUR - Pi Masjid (YOUTUBE) : PLAYLIST - TAZKIRAH</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLxah4hde1ofEe6HPz7ebkuVY7HI-uugHk&amp;video_id=Rs-HYjvGVl8&amp;order=default</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>LAMAN AN-NUR - Pi Masjid (YOUTUBE) : PLAYLIST - PENCERAMAH UMUM</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLxah4hde1ofG477hGaM9JZx2pnpsZrFhj&amp;video_id=6G4Rm4usAKY&amp;order=default</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>LAMAN AN-NUR - Pi Masjid (YOUTUBE) : PLAYLIST - USTAZ SHUKERI NAJIB ABD RAHIM</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLxah4hde1ofH5BbB-kOSXjYR2sLegcl0z&amp;video_id=yrLughCrkzI&amp;order=default</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>LAMAN AN-NUR - Pi Masjid (YOUTUBE) : PLAYLIST - TUAN GURU DATO DR HARON DIN &amp; DATO NIK MUHAMMAD ZAWAWI SALLEH</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLxah4hde1ofGjgOadz5-DB4uWyr2JOmo3&amp;video_id=qGxhFNDOw1o&amp;order=default</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>LAMAN AN-NUR - Pi Masjid (YOUTUBE) : PLAYLIST - TUAN GURU DATO DR HARON DIN</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLDEFB9CC9B2CB60BD&amp;video_id=qnUi_3EFexg&amp;order=default</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>LAMAN AN-NUR - Pi Masjid (YOUTUBE) : PLAYLIST - USTAZ DON DANIYAL DON BIYAJID</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLxah4hde1ofGWxJvZRppqu4jt-3bvtdG2&amp;video_id=0A8EhyfgMcs&amp;order=default</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>LAMAN AN-NUR - Pi Masjid (YOUTUBE) : PLAYLIST - TUAN GURU DATO ISMAIL KAMUS</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLxah4hde1ofEqCb487dbnNJYzRZ4CdrIS&amp;video_id=yeK8mRTjHK8&amp;order=reverse</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>LAMAN AN-NUR - Pi Masjid (YOUTUBE) : PLAYLIST - USTAZ MOKHTAR SENIK</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLxah4hde1ofFLfOZ7sbp_UaU0BQ9zQKRk&amp;video_id=ei2EazBpUfk&amp;order=default</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>LAMAN AN-NUR - Pi Masjid (YOUTUBE) : PLAYLIST - USTAZ IQBAL AL-JAUHARI</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLxah4hde1ofGZRiSZwD5ymSD4az8rBMih&amp;video_id=IY5Ba5moR7k&amp;order=default</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange] LIST : ZON KULIAH [/COLOR]</title>
+<link>.</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+<info>.</info>
+</item>
+
+<item>
+<title>ZON KULIAH (YOUTUBE) : [120615] RAMADHAN..AZAB &amp; RAHMAT - USTAZ AHMAD RIZAM • USTAZ MURTADHA • USTAZ ANNAS</title>
+<link>plugin://plugin.video.youtube/play/?video_id=lznYQ3SRupk</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>ZON KULIAH (YOUTUBE) : [110615] DI AMBANG RAMADHAN - TUAN GURU SHEIKH NURUDDIN MARBU AL-BANJARI AL-MAKKI</title>
+<link>plugin://plugin.video.youtube/play/?video_id=ypk-vOqKb7s</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>ZON KULIAH (YOUTUBE) : [070615] KULIAH MAGHRIB - SAINS &amp; RAMADHAN - PROF DR. ROSLAN HASHIM</title>
+<link>plugin://plugin.video.youtube/play/?video_id=hJviWjh02fc</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>ZON KULIAH (YOUTUBE) : [060615] 40 HADIS PILIHAN - USTAZ FAWWAZ MD JAN</title>
+<link>plugin://plugin.video.youtube/play/?video_id=jGKb_WgdX8k</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>ZON KULIAH (YOUTUBE) : [030615] NABI ISA AS &amp; IMAM MAHDI - USTAZ HAFIZAL</title>
+<link>plugin://plugin.video.youtube/play/?video_id=Vko7iY2C-Ew</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>ZON KULIAH (YOUTUBE) : [300515] MAHSYAR - USTAZ WADI ANNUAR</title>
+<link>plugin://plugin.video.youtube/play/?video_id=XQqvCzd1YYk</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>ZON KULIAH (YOUTUBE) : [280515] KIAMAT - USTAZ WADI ANNUAR</title>
+<link>plugin://plugin.video.youtube/play/?video_id=YOI6uS0aYcQ</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>ZON KULIAH (YOUTUBE) : [280515] ALAM YANG MENANTI - USTAZ WADI ANNUAR</title>
+<link>plugin://plugin.video.youtube/play/?video_id=ZxI5M62Q5fY</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>ZON KULIAH (YOUTUBE) : [270515] ISRA' &amp; MIKRAJ - USTAZ MUHAMMAD JAMES ABDULLAH</title>
+<link>plugin://plugin.video.youtube/play/?video_id=-70x1slas9M</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>ZON KULIAH (YOUTUBE) : [270515] ISRA' &amp; MIKRAJ - USTAZ ABDULLAH KHAIRI</title>
+<link>plugin://plugin.video.youtube/play/?video_id=W04sj_SCEvQ</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>ZON KULIAH (YOUTUBE) : [250515] RAMADHAN &amp; KEMATIAN - USTAZ WADI ANNUAR</title>
+<link>plugin://plugin.video.youtube/play/?video_id=MWULmV0cOX8</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>ZON KULIAH (YOUTUBE) : [220515] WASIAT LUKMANUL HAKIM - USTAZ ROSLAN CHE ROS • USTAZ YUSOF AHMAD • USTAZ FAISOL CHE AHMAD</title>
+<link>plugin://plugin.video.youtube/play/?video_id=S6YBn_oODmo</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>ZON KULIAH (YOUTUBE) : [190515] MENGURUS PERKAUMAN - SDR ZAID KAMARUDDIN • SDR FIRDAUS WONG • SDR JUFITRI JOHA</title>
+<link>plugin://plugin.video.youtube/play/?video_id=hBM905skRWc</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>ZON KULIAH (YOUTUBE) : [180515] IMAN DAN KEHIDUPAN - USTAZ HALIM NASIR</title>
+<link>plugin://plugin.video.youtube/play/?video_id=cqXc_6uZZio</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>ZON KULIAH (YOUTUBE) : [170515] MUSIBAH YANG MENIMPA UMAT ISLAM - USTAZ FAWWAZ MOHD JAN</title>
+<link>plugin://plugin.video.youtube/play/?video_id=o0ZNy9EPzw8</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>ZON KULIAH (YOUTUBE) : [170515] DAURAH KITAB : ALLAH - SYARIAT DAN HAKIKAT (BAHAGIAN 2) - USTAZ AHMAD FAKRURRAZI MOHAMMED ZABIDI</title>
+<link>plugin://plugin.video.youtube/play/?video_id=L1b-pFwkcHM</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>ZON KULIAH (YOUTUBE) : [170515] DAURAH KITAB : ALLAH - SYARIAT DAN HAKIKAT (BAHAGIAN 1) - USTAZ AHMAD FAKRURRAZI MOHAMMED ZABIDI</title>
+<link>plugin://plugin.video.youtube/play/?video_id=OQe8JN31b8w</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>ZON KULIAH (YOUTUBE) : [120515] SESUNGGUHNYA KAMI MERINDUI MU YA RASULULLAH - USTAZ A. TERMIZI • USTAZ MURTADHA • USTAZ SHAH</title>
+<link>plugin://plugin.video.youtube/play/?video_id=_6Y1kOQlCD0</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>ZON KULIAH (YOUTUBE) : [070515] TANDA-TANDA BESAR KIAMAT - USTAZ WADI ANNUAR</title>
+<link>plugin://plugin.video.youtube/play/?video_id=pY3MPBrdAfc</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>ZON KULIAH (YOUTUBE) : [030515] "PENDUSTA" - UST MURTADHA YUSOFF • USTAZ HANAFIAH ABD MALEK • UST DR IZHAR ARIFF</title>
+<link>plugin://plugin.video.youtube/play/?video_id=kdilrNTaf0w</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>ZON KULIAH (YOUTUBE) : [010515] BARZAKH... PERGI TAK KEMBALI - UST ABDULLAH KHAIRI • UST DR IZHAR • ANNAS ARABY</title>
+<link>plugin://plugin.video.youtube/play/?video_id=bTvrNA4q7d0</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>ZON KULIAH (YOUTUBE) : [260415] TETAMU YANG TAK DIUNDANG - UST SHAFFI YUSOF • UST SHAN SHANMUGAM • UST NAZRI HANAFI</title>
+<link>plugin://plugin.video.youtube/play/?video_id=JEOxUIf4J_U</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>ZON KULIAH (YOUTUBE) : [250415] HIDAYAH MILIK ALLAH - USTAZ SHAH SHANMUGAM • USTAZ RASHIDI LOBO</title>
+<link>plugin://plugin.video.youtube/play/?video_id=Vw_oj-nxUN0</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>ZON KULIAH (YOUTUBE) : [240515] CERAMAH PERDANA - USTAZ NAIM HASHIM</title>
+<link>plugin://plugin.video.youtube/play/?video_id=z999Vz9YEPA</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>ZON KULIAH (YOUTUBE) : [230415] FORUM "DAKWAH NON MUSLIM, APA PERANAN ANDA?"</title>
+<link>plugin://plugin.video.youtube/play/?video_id=k2e9xGQvZtM</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>ZON KULIAH (YOUTUBE) : [200415] "IMAN &amp; KEHIDUPAN" - USTAZ HALIM NASIR</title>
+<link>plugin://plugin.video.youtube/play/?video_id=D7my_MW8WcQ</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>ZON KULIAH (YOUTUBE) : [190415] "TAK KENAL MAKA TAK CINTA" - USTAZ MOHD SHAFFI YUSOF GANI</title>
+<link>plugin://plugin.video.youtube/play/?video_id=D92jkeuW3UI</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>ZON KULIAH (YOUTUBE) : [180415] SAAT KEMATIAN - USTAZ JAFRI ABU BAKAR</title>
+<link>plugin://plugin.video.youtube/play/?video_id=X-OSNGXkuok</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>ZON KULIAH (YOUTUBE) : [140415] "PEMBOHONG TAHAP GABAN" - USTAZ SHAMSURI HJ AHMAD</title>
+<link>plugin://plugin.video.youtube/play/?video_id=jVywCiEqMZY</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>ZON KULIAH (YOUTUBE) : [120415] TAFSIR SURAH IBRAHIM - USTAZ HALIM NASIR</title>
+<link>plugin://plugin.video.youtube/play/?video_id=-WAL1bcONOA</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>ZON KULIAH (YOUTUBE) : [110415] DI AMBANG KIAMAT - •UST ABDULLAH KHAIRI •DATO ABU HASAN DIN •UST HASLIN •UST YUSSAINE</title>
+<link>plugin://plugin.video.youtube/play/?video_id=x_i57hY5GW0</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>ZON KULIAH (YOUTUBE) : [100415] MAHSYAR - USTAZ WADI ANNUAR</title>
+<link>plugin://plugin.video.youtube/play/?video_id=CJMkz2_9aZQ</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>ZON KULIAH (YOUTUBE) : [100415] SOLAT DAN SAINS - DR AZMAN IBRAHIM</title>
+<link>plugin://plugin.video.youtube/play/?video_id=A2d3DN4Ibao</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>ZON KULIAH (YOUTUBE) : [090415] "HUDUD ALLAH ATAU HUDUD PAS" - USTAZ MOHD NASSARUDIN DAUD</title>
+<link>plugin://plugin.video.youtube/play/?video_id=eB4oAlW6Urw</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>ZON KULIAH (YOUTUBE) : [070415] "ADA APA DENGAN HUDUD" - USTAZ ABDULLAH KHAIRI</title>
+<link>plugin://plugin.video.youtube/play/?video_id=9Mum3suyIc0</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>ZON KULIAH (YOUTUBE) : [310315] "PERJALANAN KE ALAM BARZAKH" - USTAZ WADI ANNUAR</title>
+<link>plugin://plugin.video.youtube/play/?video_id=x9G5Z12OO48</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>ZON KULIAH (YOUTUBE) : PLAYLIST - BEST</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLDyvHn6TJjLxJAgseTam9XoBQdhiXpRcK&amp;video_id=IiFBRaNu-Js&amp;order=shuffle</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>ZON KULIAH (YOUTUBE) : PLAYLIST - ADA SUBTITLE</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLDyvHn6TJjLy8EUXQ0hNw7HzLrl7Smf8L&amp;video_id=JpeFieG88hQ&amp;order=shuffle</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>ZON KULIAH (YOUTUBE) : PLAYLIST - USTAZ HANIF HARON</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLDyvHn6TJjLzAsT4vIgmRQKKCJ2U4mXaU&amp;video_id=5FY1ZfRYku0&amp;order=shuffle</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>ZON KULIAH (YOUTUBE) : PLAYLIST - USTAZ SHAHUL HAMID</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLDyvHn6TJjLxHobz1NQog9mw1O7hK44Td&amp;video_id=Vm7jarKvc44&amp;order=shuffle</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>ZON KULIAH (YOUTUBE) : PLAYLIST - USTAZ FAWWAZ MOHD JAN</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLDyvHn6TJjLxPFCwOobz_oaGT7symXN8w&amp;video_id=SFHNcC4cpxA&amp;order=shuffle</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>ZON KULIAH (YOUTUBE) : PLAYLIST - USTAZ SHAMSURI HAJI AHMAD</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLDyvHn6TJjLxAFrtq4VH1E6PX1YsTt03q&amp;video_id=0cgYVyJElLk&amp;order=shuffle</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>ZON KULIAH (YOUTUBE) : PLAYLIST - HADIS 40 IMAM NAWAWI</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLDyvHn6TJjLxGQV9HluyZtbEA8hsZ5vjS&amp;video_id=PT8BzfKE9LA&amp;order=default</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange] LIST : TUAN GURU DATO ISMAIL KAMUS [/COLOR]</title>
+<link>.</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+<info>.</info>
+</item>
+
+<item>
+<title>TUAN GURU DATO ISMAIL KAMUS (YOUTUBE) : [2013] HASAD DENGKI, SIHIR DAN AYAH PIN MURTAD</title>
+<link>plugin://plugin.video.youtube/play/?video_id=W5r5AHpfQZo</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>TUAN GURU DATO ISMAIL KAMUS (YOUTUBE) : [2011] UMUR &amp; HARTA</title>
+<link>plugin://plugin.video.youtube/play/?video_id=QdBQMOBN6_E</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>TUAN GURU DATO ISMAIL KAMUS (YOUTUBE) : PLAYLIST - PELBAGAI TAJUK</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLxah4hde1ofEqCb487dbnNJYzRZ4CdrIS&amp;video_id=yeK8mRTjHK8&amp;order=default</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>TUAN GURU DATO ISMAIL KAMUS (YOUTUBE) : PLAYLIST - SAKITNYA MENJELANG MATI</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PL32616581E5621BB4&amp;video_id=-FPH4VGYvnw&amp;order=default</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>TUAN GURU DATO ISMAIL KAMUS (YOUTUBE) : PLAYLIST - 7 GOLONGAN DI PADANG MAHSYAR</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PL6C77714C5122FABB&amp;video_id=uniFXoBsCao&amp;order=default</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>TUAN GURU DATO ISMAIL KAMUS (YOUTUBE) : PLAYLIST - NAFSU MAKAN</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PL516E38B6BE97E862&amp;video_id=ukCZmX4McCA&amp;order=default</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>TUAN GURU DATO ISMAIL KAMUS (YOUTUBE) : PLAYLIST - BIDAAH DALAM SOLAT + DOA &amp; ZIKIR DI PAGI HARI</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PL79637498738547F8&amp;video_id=nyjckwrRW5Y&amp;order=default</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>TUAN GURU DATO ISMAIL KAMUS (YOUTUBE) : PLAYLIST - ALAM ROH</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PL263787CC28FDAE0A&amp;video_id=6P1tVDrNNxo&amp;order=default</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>TUAN GURU DATO ISMAIL KAMUS (YOUTUBE) : PLAYLIST - KELEBIHAN UMAT MUHAMMAD (AUDIO)</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PL5B3A71395D8AD5DB&amp;video_id=ZURQX0zLaLA&amp;order=default</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>TUAN GURU DATO ISMAIL KAMUS (YOUTUBE) : PLAYLIST - KELEBIHAN HARI JUMAAT</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLwGt79OydRANGDu8d1KM89FjleaGl9whW&amp;video_id=gFsy7qMz4sA&amp;order=default</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>TUAN GURU DATO ISMAIL KAMUS (YOUTUBE) : PLAYLIST - KELEBIHAN ORANG ALIM</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PL5E8FC8DCA6A11437&amp;video_id=YPe8ej7Db5o&amp;order=default</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>TUAN GURU DATO ISMAIL KAMUS (YOUTUBE) : PLAYLIST - ULAMA PALSU DAN TULEN</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PL02BEED381B184CE2&amp;video_id=uTs4YC7R6kg&amp;order=default</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>TUAN GURU DATO ISMAIL KAMUS (YOUTUBE) : PLAYLIST - KHUSYUK DI DALAM SOLAT</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PL5CFEB87923DB9900&amp;video_id=kr1Ix5tn6SI&amp;order=default</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>TUAN GURU DATO ISMAIL KAMUS (YOUTUBE) : PLAYLIST - SOLAT SUNAT</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLD0C822BEA92C3935&amp;video_id=FYyyKEHUpOE&amp;order=default</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>TUAN GURU DATO ISMAIL KAMUS (YOUTUBE) : PLAYLIST - SAKARATUL MAUT</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PL55CB96DD35A287EB&amp;video_id=5gOoXifRkAc&amp;order=default</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>TUAN GURU DATO ISMAIL KAMUS (YOUTUBE) : PLAYLIST - PERBETULKAN WUDHUK ANDA</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PL622F5EAA53C252E0&amp;video_id=5K2VW36hdSM&amp;order=default</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>TUAN GURU DATO ISMAIL KAMUS (YOUTUBE) : PLAYLIST - JANGAN SALAH FAHAM</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PL5D2B5678E6A9F1C2&amp;video_id=c-KTEbg5yi4&amp;order=default</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>TUAN GURU DATO ISMAIL KAMUS (YOUTUBE) : PLAYLIST - AMARAN DARI ALLAH</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PL8E18A4C5246AB053&amp;video_id=w49jPjxJyCU&amp;order=default</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>TUAN GURU DATO ISMAIL KAMUS (YOUTUBE) : PLAYLIST - MUSIBAH</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLAD32CACA06307F81&amp;video_id=7Ves1Wh1_5k&amp;order=default</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>TUAN GURU DATO ISMAIL KAMUS (YOUTUBE) : PLAYLIST - ISTIQAMAH</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLE5488385463BE05C&amp;video_id=YYkzRjHuDjc&amp;order=default</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>TUAN GURU DATO ISMAIL KAMUS (YOUTUBE) : PLAYLIST - HIDAYAH</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PL1B3EC71EA4229DE0&amp;video_id=9fzv1_rfkI0&amp;order=default</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>TUAN GURU DATO ISMAIL KAMUS (YOUTUBE) : PLAYLIST - PENDIDIKAN AWAL MENURUT ISLAM + DIMANAKAH KITA</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PL2A842981DDF9F989&amp;video_id=7HwlX-YKz0I&amp;order=reverse</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>TUAN GURU DATO ISMAIL KAMUS (YOUTUBE) : PLAYLIST - PERKAHWINAN MENURUT ISLAM</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLA5D9F21CCA28D736&amp;video_id=esTskCZWpaU&amp;order=default</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>TUAN GURU DATO ISMAIL KAMUS (YOUTUBE) : PLAYLIST - WAJAH-WAJAH MAYAT</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PL85B4D84560BAABBE&amp;video_id=q1w8bBdF_Xs&amp;order=default</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>TUAN GURU DATO ISMAIL KAMUS (YOUTUBE) : PLAYLIST - PERHITUNGAN HARI AKHIRAT</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PL3B7040BD812B37A0&amp;video_id=KSGgAF5-JU4&amp;order=default</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>TUAN GURU DATO ISMAIL KAMUS (YOUTUBE) : PLAYLIST - 4 GOLONGAN MANUSIA</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLA69F8E5DBF12A325&amp;video_id=SCkBK6rSjjs&amp;order=default</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>TUAN GURU DATO ISMAIL KAMUS (YOUTUBE) : PLAYLIST - PEMIMPIN YANG ADIL</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PL42440900437977BB&amp;video_id=O0PmsNxzyCk&amp;order=default</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>TUAN GURU DATO ISMAIL KAMUS (YOUTUBE) : PLAYLIST - HISTERIA</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PL08C1658081B4DBF3&amp;video_id=ToNvoavNZ1s&amp;order=default</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>TUAN GURU DATO ISMAIL KAMUS (YOUTUBE) : PLAYLIST - TAFSIR SURAH AL-ALAQ</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PL4B15255C927FDDB1&amp;video_id=htKhb2E4TNw&amp;order=default</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>TUAN GURU DATO ISMAIL KAMUS (YOUTUBE) : PLAYLIST - TAFSIR SURAH AL-KAFIRUN</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PL0BDFD6A2158115D1&amp;video_id=wsr0Z9gGmDc&amp;order=default</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>TUAN GURU DATO ISMAIL KAMUS (YOUTUBE) : PLAYLIST - RAHSIA PERKAHWINAN (AUDIO SAHAJA)</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PL55212F5C44DBEFA6&amp;video_id=GfX7W2RySb4&amp;order=default</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>TUAN GURU DATO ISMAIL KAMUS (YOUTUBE) : PLAYLIST - ALAM JIN (PART 1-3) (AUDIO SAHAJA)</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLB083BFE987D074B6&amp;video_id=8XHxpO2v9RI&amp;order=default</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange] LIST : DR MAZA [/COLOR]</title>
+<link>.</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+<info>.</info>
+</item>
+
+<item>
+<title>OFFICIAL DR MAZA (YOUTUBE) : [2015] ISTIGHFAR : 15 SEBAB MANUSIA DIKELUARKAN DARI DUKACITA - DATO' DR. MAZA</title>
+<link>plugin://plugin.video.youtube/play/?video_id=6JpzIzlNp8o</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>OFFICIAL DR MAZA (YOUTUBE) : [2015] SETIAP KITA HARUS ADA CARA TAZKIYAH DIRI - DATO' DR. MAZA</title>
+<link>plugin://plugin.video.youtube/play/?video_id=j8kOUIE2kNk</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>OFFICIAL DR MAZA (YOUTUBE) : [2015] MERASAI NIKMAT PENGAMPUNAN ALLAH - DATO' DR. MAZA</title>
+<link>plugin://plugin.video.youtube/play/?video_id=Xm_d6qp0jUw</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>OFFICIAL DR MAZA (YOUTUBE) : [2015] BOLEHKAH BACA AL-QURAN... KEMUDIAN HEMBUS DALAM AIR - DATO' DR. MAZA</title>
+<link>plugin://plugin.video.youtube/play/?video_id=8mFDNyLyHEk</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>OFFICIAL DR MAZA (YOUTUBE) : [2015] SAMPAI ATAU TIDAK DOA KEPADA SIMATI WALAU TIADA PERTALIAN WARIS - DATO' DR. MAZA</title>
+<link>plugin://plugin.video.youtube/play/?video_id=uYXHEqCZ6Sc</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>OFFICIAL DR MAZA (YOUTUBE) : [2015] BOLEH KE BUAT MAJLIS CINTA RASUL - DATO' DR. MAZA</title>
+<link>plugin://plugin.video.youtube/play/?video_id=370_12YXClo</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>OFFICIAL DR MAZA (YOUTUBE) : [2015] ISTERI SELEKEH... SUAMI SEGAK - DATO' DR. MAZA</title>
+<link>plugin://plugin.video.youtube/play/?video_id=Egy5o36l1XQ</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>OFFICIAL DR MAZA (YOUTUBE) : [2015] HUKUM GANTUNG GAMBAR SULTAN SEBAGAI PELARIS SYIRIK - DATO' DR. MAZA</title>
+<link>plugin://plugin.video.youtube/play/?video_id=tZ6i1xWb4Xk</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>OFFICIAL DR MAZA (YOUTUBE) : [2015] SELERA RASA - DATO' DR. MAZA</title>
+<link>plugin://plugin.video.youtube/play/?video_id=tVM4OzOHFPs</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>OFFICIAL DR MAZA (YOUTUBE) : [2015] ILMU HADITH MEMBINA KETAJAMAN PEMIKIRAN - DATO' DR. MAZA</title>
+<link>plugin://plugin.video.youtube/play/?video_id=oh_9JwIlmpg</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>OFFICIAL DR MAZA (YOUTUBE) : [2015] TUAN GURU NIK AZIZ... PERJUANGAN TIDAK TERHENTI DENGAN HILANGNYA TOKOH - DATO' DR. MAZA</title>
+<link>plugin://plugin.video.youtube/play/?video_id=8Athuuq9awE</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>OFFICIAL DR MAZA (YOUTUBE) : [2015] PERIHAL PERANGAI AHBASH - DATO' DR. MAZA</title>
+<link>plugin://plugin.video.youtube/play/?video_id=jrZtgVEwMKk</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>OFFICIAL DR MAZA (YOUTUBE) : [2015] FIQH SIRAH MUSA vs FIRAUN - DATO' DR. MAZA</title>
+<link>plugin://plugin.video.youtube/play/?video_id=CaBSYVjrTn4</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>OFFICIAL DR MAZA (YOUTUBE) : [2015] CARI REDHA ALLAH... YG LAIN BOLEH ADJUST - DATO' DR. MAZA</title>
+<link>plugin://plugin.video.youtube/play/?video_id=GXVgjsewhqM</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>OFFICIAL DR MAZA (YOUTUBE) : [2015] TAUBAT YANG BELUM HADIR - DATO' DR. MAZA</title>
+<link>plugin://plugin.video.youtube/play/?video_id=9ay8dbilqlc</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>OFFICIAL DR MAZA (YOUTUBE) : [2015] SEBELUM RAKYAT TAAT PEMIMPIN PEMIMPIN DULU KENA TAAT SURUHAN ALLAH - DATO' DR. MAZA</title>
+<link>plugin://plugin.video.youtube/play/?video_id=wvUn2prebEg</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>OFFICIAL DR MAZA (YOUTUBE) : [2015] INPUT JIWA - DATO' DR. MAZA</title>
+<link>plugin://plugin.video.youtube/play/?video_id=GtSI5aLJjgc</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>OFFICIAL DR MAZA (YOUTUBE) : [2015] ISTIGHFAR PENGHIAS NURANI - DATO' DR. MAZA</title>
+<link>plugin://plugin.video.youtube/play/?video_id=YciGy0_DTk8</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>OFFICIAL DR MAZA (YOUTUBE) : [2015] BERAGAMA DENGAN AKAL YANG SIHAT - DATO' DR. MAZA</title>
+<link>plugin://plugin.video.youtube/play/?video_id=5kzcJiQNC98</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>OFFICIAL DR MAZA (YOUTUBE) : [2015] KHUTBAH JUMAAT UMMATAN WAHIDAH - DATO' DR. MAZA</title>
+<link>plugin://plugin.video.youtube/play/?video_id=eG8U8pkOgUg</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>OFFICIAL DR MAZA (YOUTUBE) : [2015] APABILA PRODUCER FILEM KURANG ARIF KONSEP SOLEH - DATO' DR. MAZA</title>
+<link>plugin://plugin.video.youtube/play/?video_id=V65AHd1zoX4</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>OFFICIAL DR MAZA (YOUTUBE) : [2015] TEGAKKAN ISLAM DLM DIRI KAMU NESCAYA TERTEGAK ISLAM DI NEGARA KAMU - DATO' DR. MAZA</title>
+<link>plugin://plugin.video.youtube/play/?video_id=ElbmOu7hz_8</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>OFFICIAL DR MAZA (YOUTUBE) : [2015] KITA YANG KERAP DOUBLE STANDARD - DATO' DR. MAZA</title>
+<link>plugin://plugin.video.youtube/play/?video_id=eta8c2W_640</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>OFFICIAL DR MAZA (YOUTUBE) : [2015] NILAI DOSA DAN NIKMAT PENGAMPUNAN - DATO' DR. MAZA</title>
+<link>plugin://plugin.video.youtube/play/?video_id=6-uMkuLGp0I</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>OFFICIAL DR MAZA (YOUTUBE) : PLAYLIST - FORUM DR MAZA</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLuLlmKt1yL0Sn1c8lNi5f9jPDZ_BYgHvd&amp;video_id=ovcJ8EIC2Uk&amp;order=default</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>OFFICIAL DR MAZA (YOUTUBE) : PLAYLIST - CERAMAH DR MAZA</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLuLlmKt1yL0QSJbnblFCKP1TW9iVZy_VY&amp;video_id=bogyV4Wt3UQ&amp;order=default</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>OFFICIAL DR MAZA (YOUTUBE) : PLAYLIST - BAB PUASA</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLuLlmKt1yL0TBMPnx76ZXQdm1OonU6Mnf&amp;video_id=OLBFNsnYlxE&amp;order=default</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>OFFICIAL DR MAZA (YOUTUBE) : PLAYLIST - WACANA HUDUD-BERSEDIAKAH KITA</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLuLlmKt1yL0TxSh9P6iksoSIBQT0gPaJ9&amp;video_id=-G9VpbAo0ko&amp;order=default</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>OFFICIAL DR MAZA (YOUTUBE) : PLAYLIST - SOAL JAWAB BERSAMA DR MAZA</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLuLlmKt1yL0Q4aev-LAsoQI_boZd8LFCq&amp;video_id=sMzvjy0_SL0&amp;order=default</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>OFFICIAL DR MAZA (YOUTUBE) : PLAYLIST - KOLEKSI KULIAH DR MAZA 2015</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLuLlmKt1yL0ShHpqoaiAVx5rNBF47IoQx&amp;video_id=XsT-cnUvtpg&amp;order=default</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>OFFICIAL DR MAZA (YOUTUBE) : PLAYLIST - KOLEKSI KULIAH DR MAZA 2014</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLuLlmKt1yL0RYJNzhYi4TdWOc16CEXJ1D&amp;video_id=JGwpaefyfiI&amp;order=default</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>OFFICIAL DR MAZA (YOUTUBE) : PLAYLIST - KOLEKSI KULIAH DR MAZA 2013</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLuLlmKt1yL0SMdysLu9XWLtYTAmt_62_d&amp;video_id=IIbxuTfFwVY&amp;order=default</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>OFFICIAL DR MAZA (YOUTUBE) : PLAYLIST - KOLEKSI KULIAH DR MAZA 2012</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLuLlmKt1yL0TtAWBwq-xi5pZNBMez2_5Y&amp;video_id=bZItovzddUA&amp;order=default</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>OFFICIAL DR MAZA (YOUTUBE) : PLAYLIST - KOLEKSI KULIAH DR MAZA 2011</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLuLlmKt1yL0QIf6r6QyuTIrT4kIFkXo1v&amp;video_id=aP-FyIfFdDg&amp;order=default</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange] LIST : USTAZ WADI ANNUAR [/COLOR]</title>
+<link>.</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+<info>.</info>
+</item>
+
+<item>
+<title>USTAZ WADI ANNUAR (YOUTUBE) : [2015] KIAMAT HAMPIR TIBA - USTAZ WADI ANNUAR</title>
+<link>plugin://plugin.video.youtube/play/?video_id=5yTSiT3OIts</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>USTAZ WADI ANNUAR (YOUTUBE) : [2015] "NABI ISA, IMAM MAHDI &amp; TENTERA" - USTAZ WADI ANNUAR</title>
+<link>plugin://plugin.video.youtube/play/?video_id=OQm_eF330XE</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>USTAZ WADI ANNUAR (YOUTUBE) : [2015] PEPERANGAN TERBESAR - USTAZ WADI ANNUAR</title>
+<link>plugin://plugin.video.youtube/play/?video_id=wQ_oFhCirqg</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>USTAZ WADI ANNUAR (YOUTUBE) : [2015] PERJALANAN ALAM BARZAKH - USTAZ WADI ANNUAR</title>
+<link>plugin://plugin.video.youtube/play/?video_id=rh2A5yeAJMY</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>USTAZ WADI ANNUAR (YOUTUBE) : [2015] WANGINYA... - USTAZ WADI ANNUAR</title>
+<link>plugin://plugin.video.youtube/play/?video_id=pPbtuXnkaDI</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>USTAZ WADI ANNUAR (YOUTUBE) : [2015] IMAN SEJATI - USTAZ WADI ANNUAR</title>
+<link>plugin://plugin.video.youtube/play/?video_id=bHREHNUmx_Y</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>USTAZ WADI ANNUAR (YOUTUBE) : [2014] NIKMAT SYURGA DAN AZAB NERAKA - USTAZ WADI ANNUAR</title>
+<link>plugin://plugin.video.youtube/play/?video_id=Srqy6qjgl_I</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>USTAZ WADI ANNUAR (YOUTUBE) : [2014] PERISTIWA SEBELUM KIAMAT - USTAZ WADI ANNUAR</title>
+<link>plugin://plugin.video.youtube/play/?video_id=5G-X5Ll5NvU</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>USTAZ WADI ANNUAR (YOUTUBE) : PLAYLIST - SIRAH LENGKAP RASULULLAH - USTAZ WADI ANNUAR</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLmRaRT2UMknhChuvEHiYes25gAf3b24dH&amp;video_id=Fumhi29GuGI&amp;order=default</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>USTAZ WADI ANNUAR (YOUTUBE) : PLAYLIST - 40 HADIS PERISTIWA AKHIR ZAMAN - USTAZ WADI ANNUAR</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLmRaRT2UMkng2mNLeZRTq8xKuMmu0bDfQ&amp;video_id=4ZhZN4dQ4RA&amp;order=default</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange] LIST : USTAZ ABDULLAH KHAIRI [/COLOR]</title>
+<link>.</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+<info>.</info>
+</item>
+
+<item>
+<title>USTAZ ABDULLAH KHAIRI (YOUTUBE) : [2015] HANG NGAJI MANA TAKBIR GAYA ULTRAMAN..?? - USTAZ ABDULLAH KHAIRI</title>
+<link>plugin://plugin.video.youtube/play/?video_id=RIyBN6YeSuM</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>USTAZ ABDULLAH KHAIRI (YOUTUBE) : [2015] YAKIN ISLAM MESTI MENANG BANG.. - USTAZ ABDULLAH KHAIRI</title>
+<link>plugin://plugin.video.youtube/play/?video_id=aKfdvXMCGEo</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>USTAZ ABDULLAH KHAIRI (YOUTUBE) : [2015] MALAM PERTAMA DI ALAM BARZAKH - USTAZ ABDULLAH KHAIRI</title>
+<link>plugin://plugin.video.youtube/play/?video_id=rvWL8dIgnzM</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>USTAZ ABDULLAH KHAIRI (YOUTUBE) : [2015] PELIK SUNGGUH KALAU ORANG ISLAM YANG HALANG HUDUD - USTAZ ABDULLAH KHAIRI</title>
+<link>plugin://plugin.video.youtube/play/?video_id=KV9Xh2kx2gw</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>USTAZ ABDULLAH KHAIRI (YOUTUBE) : [2015] "KULIAH MAGHRIB PERDANA (MATIN)" - USTAZ ABDULLAH KHAIRI</title>
+<link>plugin://plugin.video.youtube/play/?video_id=TJuOYHdpOdw</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>USTAZ ABDULLAH KHAIRI (YOUTUBE) : [2015] "ADA MASALAH???.. JUMPA MAK" - USTAZ ABDULLAH KHAIRI</title>
+<link>plugin://plugin.video.youtube/play/?video_id=EQshQEdzJZE</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>USTAZ ABDULLAH KHAIRI (YOUTUBE) : [2015] "JANGAN BERMALAS-MALAS UNTUK IBADAH" - USTAZ ABDULLAH KHAIRI</title>
+<link>plugin://plugin.video.youtube/play/?video_id=94m2XKOWwBM</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>USTAZ ABDULLAH KHAIRI (YOUTUBE) : [2015] "KHUTBAH GERHANA" - USTAZ ABDULLAH KHAIRI</title>
+<link>plugin://plugin.video.youtube/play/?video_id=DCleH8IYrt8</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>USTAZ ABDULLAH KHAIRI (YOUTUBE) : [2015] "PERJALANAN ROH" SELEPAS MATI PERGI KE MANA?? - USTAZ ABDULLAH KHAIRI</title>
+<link>plugin://plugin.video.youtube/play/?video_id=HI5qlmLARkI</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>USTAZ ABDULLAH KHAIRI (YOUTUBE) : [2015] "TANDA 100 HARI NAK MATI" - USTAZ ABDULLAH KHAIRI</title>
+<link>plugin://plugin.video.youtube/play/?video_id=RJCXVJ-AYa4</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>USTAZ ABDULLAH KHAIRI (YOUTUBE) : [2015] "PETUA SIMPLE NAK NAIK SERI WAJAH" - USTAZ ABDULLAH KHAIRI</title>
+<link>plugin://plugin.video.youtube/play/?video_id=KCYn1dc0Xn8</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>USTAZ ABDULLAH KHAIRI (YOUTUBE) : [2015] "KULIAH MAGHRIB PERDANA (MATIN)" - USTAZ ABDULLAH KHAIRI</title>
+<link>plugin://plugin.video.youtube/play/?video_id=TJuOYHdpOdw</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>USTAZ ABDULLAH KHAIRI (YOUTUBE) : [2015] "MAT... JANGAN LUPA KUMPUL HARTA AKHIRAT" - USTAZ ABDULLAH KHAIRI</title>
+<link>plugin://plugin.video.youtube/play/?video_id=fBpvPWPXaf0</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>USTAZ ABDULLAH KHAIRI (YOUTUBE) : [2015] "RAHSIA DI DALAM MASJID AL-AQSA" - USTAZ ABDULLAH KHAIRI</title>
+<link>plugin://plugin.video.youtube/play/?video_id=x14Td8MfwxE</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>USTAZ ABDULLAH KHAIRI (YOUTUBE) : [2015] "BAGAIMANA MENGHADAPI SAKARATUL MAUT YANG MENGGERUNKAN" - USTAZ ABDULLAH KHAIRI</title>
+<link>plugin://plugin.video.youtube/play/?video_id=WYFOBH1hWlk</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>USTAZ ABDULLAH KHAIRI (YOUTUBE) : [2014] ADILNYA ISLAM - USTAZ ABDULLAH KHAIRI</title>
+<link>plugin://plugin.video.youtube/play/?video_id=njuAOXFK4zM</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>USTAZ ABDULLAH KHAIRI (YOUTUBE) : [2014] ITU MILIK KITA..?? - USTAZ ABDULLAH KHAIRI</title>
+<link>plugin://plugin.video.youtube/play/?video_id=mcrc4oxEh_A</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>USTAZ ABDULLAH KHAIRI (YOUTUBE) : [2014] BICARA UMMAH - USTAZ ABDULLAH KHAIRI</title>
+<link>plugin://plugin.video.youtube/play/?video_id=5Qg768w0ue0</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>USTAZ ABDULLAH KHAIRI (YOUTUBE) : [2014] SOMBONG YANG MEROSAKKAN SEGALANYA - USTAZ ABDULLAH KHAIRI</title>
+<link>plugin://plugin.video.youtube/play/?video_id=Urjv4ThPJ2Q</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>USTAZ ABDULLAH KHAIRI (YOUTUBE) : [2014] NAK DAPAT MAWADDAH... KENA KAWIN BANG - USTAZ ABDULLAH KHAIRI</title>
+<link>plugin://plugin.video.youtube/play/?video_id=Xxv6DrrpkjI</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>USTAZ ABDULLAH KHAIRI (YOUTUBE) : [2014] HIMPUNAN KISAH CINTA TERHADAP RASULULLAH S.A.W. - USTAZ ABDULLAH KHAIRI</title>
+<link>plugin://plugin.video.youtube/play/?video_id=Cgob_fXpAn4</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>USTAZ ABDULLAH KHAIRI (YOUTUBE) : [2013] MEREKA AKAN TENGOK BETAPA ADILNYA HUKUM ALLAH - USTAZ ABDULLAH KHAIRI</title>
+<link>plugin://plugin.video.youtube/play/?video_id=VJF1GjI-om4</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>USTAZ ABDULLAH KHAIRI (YOUTUBE) : [2014] CERAMAH KHAS - USTAZ ABDULLAH KHAIRI</title>
+<link>plugin://plugin.video.youtube/play/?video_id=bBlYf-JdWgw</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>USTAZ ABDULLAH KHAIRI (YOUTUBE) : [2014] SYIRIA DAN GAZA - USTAZ ABDULLAH KHAIRI</title>
+<link>plugin://plugin.video.youtube/play/?video_id=oQJRIdgZBuI</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>USTAZ ABDULLAH KHAIRI (YOUTUBE) : [2014] ANAK YANG SOLEH - USTAZ ABDULLAH KHAIRI</title>
+<link>plugin://plugin.video.youtube/play/?video_id=9kU19XmFC-E</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>USTAZ ABDULLAH KHAIRI (YOUTUBE) : [2013] "SAKARATULMAUT ITU PASTI... KITA USAHA, MENANG KALAH ITU URUSAN ALLAH" - USTAZ ABDULLAH KHAIRI</title>
+<link>plugin://plugin.video.youtube/play/?video_id=RWxntDmXxxA</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>USTAZ ABDULLAH KHAIRI (YOUTUBE) : [2013] MEREKA AKAN TENGOK BETAPA ADILNYA HUKUM ALLAH - USTAZ ABDULLAH KHAIRI</title>
+<link>plugin://plugin.video.youtube/play/?video_id=VJF1GjI-om4</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>USTAZ ABDULLAH KHAIRI (YOUTUBE) : [2013] PROSES HIJRAH MANUSIA (6 NASIHAT HIDUP PENTING DARI IMAM AL GHAZALI) - USTAZ ABDULLAH KHAIRI</title>
+<link>plugin://plugin.video.youtube/play/?video_id=e6lyfFUbM5g</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>USTAZ ABDULLAH KHAIRI (YOUTUBE) : [2006] CERAMAH POWER RANGERS - USTAZ ABDULLAH KHAIRI</title>
+<link>plugin://plugin.video.youtube/play/?video_id=-OnHocsZMzU</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>USTAZ ABDULLAH KHAIRI (YOUTUBE) : "KISAH JANDA 67 TAHUN NAK BERKAHWIN" - USTAZ ABDULLAH KHAIRI</title>
+<link>plugin://plugin.video.youtube/play/?video_id=-GmjPWIIsME</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>USTAZ ABDULLAH KHAIRI (YOUTUBE) : "DENGAR ORANG KATA" - USTAZ ABDULLAH KHAIRI</title>
+<link>plugin://plugin.video.youtube/play/?video_id=83_f61rKR9o</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>USTAZ ABDULLAH KHAIRI (YOUTUBE) : "AKU CINTA SAUDARAKU MUSLIM" - USTAZ ABDULLAH KHAIRI</title>
+<link>plugin://plugin.video.youtube/play/?video_id=ifimnGGk_4g</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>USTAZ ABDULLAH KHAIRI (YOUTUBE) : "KISAH BERADA DI MASJID NABAWI" - USTAZ ABDULLAH KHAIRI</title>
+<link>plugin://plugin.video.youtube/play/?video_id=_Jpadhe06kA</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange] LIST : USTAZ AZHAR IDRUS [/COLOR]</title>
+<link>.</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+<info>.</info>
+</item>
+
+<item>
+<title>USTAZ AZHAR IDRUS (YOUTUBE) : PLAYLIST - KOLEKSI SOALAN &amp; JAWAPAN #1 </title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PL211FAF6716A34392&amp;video_id=EvyrHhxa1ZU&amp;order=default</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>USTAZ AZHAR IDRUS (YOUTUBE) : PLAYLIST - KOLEKSI SOALAN &amp; JAWAPAN #2 </title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PL1128AC346A29CCD1&amp;video_id=p0GR8v2P3Yk&amp;order=default</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>USTAZ AZHAR IDRUS (YOUTUBE) : PLAYLIST - KOLEKSI SOALAN &amp; JAWAPAN #3 </title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLFCD35386D3C78166&amp;video_id=2AR3Lppha9s&amp;order=default</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>USTAZ AZHAR IDRUS (YOUTUBE) : PLAYLIST - KOLEKSI FAVOURITES (MORE THAN 400 VIDEO)</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=FLb6h8iiI9XyS-mAKT0O071g&amp;video_id=pIuOa-CX5Is&amp;order=default</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange] LIST : ALLAHYARHAM TUAN GURU NIK AZIZ [/COLOR]</title>
+<link>.</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+<info>.</info>
+</item>
+
+<item>
+<title>ALLAHYARHAM TUAN GURU NIK AZIZ (YOUTUBE) : KULIAH AKHIR YANG SEMPAT DISAMPAIKAN OLEH TG NIK AZIZ NIK MAT</title>
+<link>plugin://plugin.video.youtube/play/?video_id=Y7MTAZm6i_I</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>ALLAHYARHAM TUAN GURU NIK AZIZ (YOUTUBE) : KULIAH JUMAAT 24102014</title>
+<link>plugin://plugin.video.youtube/play/?video_id=0ztmbJ0_f1M</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>ALLAHYARHAM TUAN GURU NIK AZIZ (YOUTUBE) : KULIAH JUMAAT 26092014</title>
+<link>plugin://plugin.video.youtube/play/?video_id=JNnUuTQMhdE</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>ALLAHYARHAM TUAN GURU NIK AZIZ (YOUTUBE) : KULIAH JUMAAT 24012014</title>
+<link>plugin://plugin.video.youtube/play/?video_id=BRMqXuOFbj4</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange] LIST : USTAZ HASLIN [/COLOR]</title>
+<link>.</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+<info>.</info>
+</item>
+
+<item>
+<title>USTAZ HASLIN (YOUTUBE) : PLAYLIST - KOLEKSI CERAMAH 09082014</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PL0m5sGl4ahIOKJEhT17ueRjxKsuZPjU4g&amp;video_id=OCYtWlJcL3M&amp;order=reverse</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>USTAZ HASLIN (YOUTUBE) : PLAYLIST - KOLEKSI CERAMAH ISRAK MIKRAJ</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PL0m5sGl4ahIOODJnJdO4o62SLx1WZayUK&amp;video_id=Lenm-ybaV8M&amp;order=reverse</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+</items>
+</channel>
+
+<channel>
+<name>Himpunan Kuliah Agama dari Program TV (Sumber dari YouTube)</name>
+<info>Koleksi Ceramah Daripada Rancangan TV</info>
+<thumbnail>https://www.youtube.com/yt/brand/media/image/YouTube-logo-full_color.png</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+<items>
+<item>
+<title>[COLOR orange]List : Halaqah[/COLOR]</title>
+<link>.</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+<info>.</info>
+</item>
+
+<item>
+<title>Halaqah TV9 [2015] - Episode 9 : Berjaya Tapi Tak Solat</title>
+<link>plugin://plugin.video.youtube/play/?video_id=S4pLW-rmruk</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>Halaqah TV9 [2015] - Episode 11 : Inikah Cinta</title>
+<link>plugin://plugin.video.youtube/play/?video_id=LqHn3YmtZbo</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>Halaqah TV9 [2015] - Episode 12 : Pejuang atau Pengganas</title>
+<link>plugin://plugin.video.youtube/play/?video_id=uL5oONOjU5Q</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>Halaqah TV9 [2015] - Episode 13 : Asyik Berpecah</title>
+<link>plugin://plugin.video.youtube/play/?video_id=MLXNCQu8Vrg</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>Halaqah TV9 [2015] - Episode 14 : Rahsia Hafiz Al Quran</title>
+<link>plugin://plugin.video.youtube/play/?video_id=iE6UKqI1iQg</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>Halaqah TV9 [2015] - Episode 15 : Dakwah Bagaimana?</title>
+<link>plugin://plugin.video.youtube/play/?video_id=Itr9Pmn2qtc</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>Halaqah TV9 [2013/2014]</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLSocC9Uvw_W0vDN8Lt44eelatji4lpHCR&amp;video_id=RIZ3upaTNFU&amp;order=default</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+</items>
+</channel>
+</channels>
