@@ -8,4 +8,12 @@
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/indiecrew/masterlist/master/HKA1.xml</externallink>
 </channel>
+
+<channel>
+<name>[COLOR=FFFFFF00]DR MAZA[/COLOR]</name>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/indiecrew/masterlist/master/HKA2.xml</externallink>
+</channel>
 </channels>
