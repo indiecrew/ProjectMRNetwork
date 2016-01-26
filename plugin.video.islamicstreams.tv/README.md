@@ -2,9 +2,9 @@
 Plugin.video.islamicstreams.tv
 =====================
 
-XBMC/Kodi Addon for Islamic Streams TV
+Islamic Streams TV is an open source project. This plugin is for private usage only and should never be purchased.
 
-xxxx
+It is now published on Github.
 
 Indiecrew, MalayRevolution Network
 
@@ -12,5 +12,13 @@ Indiecrew, MalayRevolution Network
 Changelog
 =====================
 
-V1.0.0 - 2015-08-31
-First public release
+V2.0.0
+- Second public release with the repository
+- Bugfixes
+- Suitable for kodi version 15
+
+V1.1.0
+- First public release
+
+V1.0.0
+- Initial test release
