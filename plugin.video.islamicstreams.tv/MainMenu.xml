@@ -24,19 +24,8 @@
 <info>AlQuran recitation from AlFatihah until An-nas</info>
 <thumbnail>http://www.islamicdesktop.net/download/Islamic_Wallpaper_Quran_004-1366x768.jpg</thumbnail>
 <fanart>http://th06.deviantart.net/fs70/f/2010/184/7/e/reading_Quran_al_Karim_by_islamicwallpers.jpg</fanart>
-<items>
-<item>
-<title>Sheikh Mishary Rashid Alafasy</title>
-<link>plugin://plugin.video.youtube/play/?playlist_id=PLeDyFNw0r3RqCioW-2w0ZxhM5ekDR6uZZ</link>
-<thumbnail>http://www.islamicdesktop.net/download/Islamic_Wallpaper_Quran_004-1366x768.jpg</thumbnail>
-</item>
-
-<item>
-<title>Sheikh Sa'ad Said Al-Ghamdi</title>
-<link>plugin://plugin.video.youtube/play/?playlist_id=PLFBCB5C33480F350C</link>
-<thumbnail>http://www.islamicdesktop.net/download/Islamic_Wallpaper_Quran_004-1366x768.jpg</thumbnail>                
-</item>
-</items>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/indiecrew/ProjectMRNetwork/master/plugin.video.islamicstreams.tv/MainMenu3.xml</externallink>
 </channel>
 
 <channel>
