@@ -1,4 +1,8 @@
-[B]Version 2.1.0[/B]
+[B]Version 2.1.1[/B]
+
+- add Malay Movie add-on (LayanOn9 nd Pencari Movie)
+
+[B]Version 2.0.1[/B]
 
 - Small maintenance update to clean up some code
 
