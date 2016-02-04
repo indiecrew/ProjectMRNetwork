@@ -1,10 +1,14 @@
+[B]Version 2.1.0[/B]
+
+- Small maintenance update to clean up some code
+
 [B]Version 2.0.0[/B]
 
 - the second release of the MalayRevolution Network TV addon with the repository
 - add more channel
 - fix bug issued
 - fix dead link
-- suitable for kodi version 14.2, 15, 15.2
+- suitable for kodi version 14.2, 15
 
 [B]Version 1.1.0[/B]
 
