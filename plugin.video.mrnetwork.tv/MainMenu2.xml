@@ -66,6 +66,14 @@
 </channel>
 
 <channel>
+<name>[COLOR=FFFFFF00]PALESTINE CHANNELS[/COLOR]</name>
+<thumbnail>http://img.freeflagicons.com/thumb/square_icon/palestinian_territory/palestinian_territory_640.png</thumbnail>
+<fanart>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsyx9pb7xu.png</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/indiecrew/masterlist/master/PL.xml</externallink>
+</channel>
+
+<channel>
 <name>[COLOR=FFFFFF00]PHILIPPINES CHANNELS[/COLOR]</name>
 <thumbnail>http://img.freeflagicons.com/thumb/square_icon/philippines/philippines_640.png</thumbnail>
 <fanart>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsyx9pb7xu.png</fanart>
@@ -87,6 +95,14 @@
 <fanart>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsyx9pb7xu.png</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/indiecrew/masterlist/master/SK.xml</externallink>
+</channel>
+
+<channel>
+<name>[COLOR=FFFFFF00]TAIWAN CHANNELS[/COLOR]</name>
+<thumbnail>http://img.freeflagicons.com/thumb/square_icon/republic_of_china/republic_of_china_640.png</thumbnail>
+<fanart>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsyx9pb7xu.png</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/indiecrew/masterlist/master/TW.xml</externallink>
 </channel>
 
 <channel>
