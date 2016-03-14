@@ -74,6 +74,14 @@
 </channel>
 
 <channel>
+<name>[COLOR=FFFFFF00]PAKISTAN CHANNELS[/COLOR]</name>
+<thumbnail>http://img.freeflagicons.com/thumb/square_icon/pakistan/pakistan_640.png</thumbnail>
+<fanart>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsyx9pb7xu.png</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/indiecrew/masterlist/master/PK.xml</externallink>
+</channel>
+
+<channel>
 <name>[COLOR=FFFFFF00]PHILIPPINES CHANNELS[/COLOR]</name>
 <thumbnail>http://img.freeflagicons.com/thumb/square_icon/philippines/philippines_640.png</thumbnail>
 <fanart>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsyx9pb7xu.png</fanart>
@@ -121,28 +129,12 @@
 <externallink>https://raw.githubusercontent.com/indiecrew/masterlist/master/TH.xml</externallink>
 </channel>
 
-channel>
-<name>[COLOR=FFFFFF00]UK CHANNELS[/COLOR]</name>
-<thumbnail>http://img.freeflagicons.com/thumb/square_icon/united_kingdom/united_kingdom_640.png</thumbnail>
-<fanart>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsyx9pb7xu.png</fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/indiecrew/masterlist/master/UK.xml</externallink>
-</channel>
-
 <channel>
 <name>[COLOR=FFFFFF00]UAE CHANNELS[/COLOR]</name>
 <thumbnail>http://img.freeflagicons.com/thumb/square_icon/united_arab_emirates/united_arab_emirates_640.png</thumbnail>
 <fanart>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsyx9pb7xu.png</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/indiecrew/masterlist/master/UAE.xml</externallink>
-</channel>
-
-channel>
-<name>[COLOR=FFFFFF00]US CHANNELS[/COLOR]</name>
-<thumbnail>http://img.freeflagicons.com/thumb/square_icon/united_states_of_america/united_states_of_america_640.png</thumbnail>
-<fanart>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsyx9pb7xu.png</fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/indiecrew/masterlist/master/US.xml</externallink>
 </channel>
 
 <channel>
