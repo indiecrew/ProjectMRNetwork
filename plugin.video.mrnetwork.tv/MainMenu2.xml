@@ -2,6 +2,14 @@
 
 <channels>
 <channel>
+<name>[COLOR=FFFFFF00]AUSTRALIA CHANNELS[/COLOR]</name>
+<thumbnail>http://img.freeflagicons.com/thumb/square_icon/australia/australia_640.png</thumbnail>
+<fanart>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsyx9pb7xu.png</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/indiecrew/masterlist/master/AUS.xml</externallink>
+</channel>
+
+<channel>
 <name>[COLOR=FFFFFF00]BRUNEI CHANNELS[/COLOR]</name>
 <thumbnail>http://img.freeflagicons.com/thumb/square_icon/brunei/brunei_640.png</thumbnail>
 <fanart>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsyx9pb7xu.png</fanart>
