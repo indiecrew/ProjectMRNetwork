@@ -66,20 +66,4 @@
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/indiecrew/masterlist/master/sports.xml</externallink>
 </channel>
-
-channel>
-<name>[COLOR=FFFFFF00]TODAY MATCHDAY[/COLOR] (Feed from ORC)</name>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/eplmatchday_zpsfauutecr.png</thumbnail>
-<fanart>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsyx9pb7xu.png</fanart>
-<link>http://ignoreme</link>
-<externallink>http://goo.gl/YbOlp9</externallink>
-</channel>
-
-<channel>
-<name>[COLOR=FFFFFF00]VIDEO ON DEMAND[/COLOR]</name>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/vod_zps7qwtwmsy.png</thumbnail>
-<fanart>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsyx9pb7xu.png</fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/indiecrew/masterlist/master/movie-malay.xml</externallink>
-</channel>
 </channels>
