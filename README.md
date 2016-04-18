@@ -1,4 +1,4 @@
-## <img src="https://raw.githubusercontent.com/indiecrew/ProjectMRNetwork/master/plugin.video.mrnetwork.tv/icon.png" border="0"> Project MR Network
+## <img src="https://raw.githubusercontent.com/indiecrew/ProjectMRNetwork/master/repository.projectmrnetwork/icon.png" border="0"> Project MR Network
 ------------
 This repo is free and it's not associated with official Kodi devs. These are 3rd party repositories and modules for 3rd party resources. MR Network TV is an open source project. We are not asking for any money and its will be free for life.
 
@@ -17,4 +17,4 @@ Once the repository ZIP file is installed, you can install the individual add-on
 
 System -> Settings -> Add-ons -> Install From Repository -> Select "Project MR Network" -> Video Add-Ons -> "MR Network TV" -> Install
 
-indiecrewteam@gmail.com
+indiecrewteam[at]gmail.com
