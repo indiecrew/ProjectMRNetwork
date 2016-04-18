@@ -1,4 +1,6 @@
-## <img src="https://raw.githubusercontent.com/indiecrew/ProjectMRNetwork/master/repository.projectmrnetwork/icon.png" border="0" width="200"> Project MR Network
+<img src="https://raw.githubusercontent.com/indiecrew/ProjectMRNetwork/master/repository.projectmrnetwork/icon.png" border="0" width="200" align="center"> 
+
+## Project MR Network
 ------------
 This repo is free and it's not associated with official Kodi devs. These are 3rd party repositories and modules for 3rd party resources. MR Network TV is an open source project. We are not asking for any money and its will be free for life.
 
