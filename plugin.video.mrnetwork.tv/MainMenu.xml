@@ -36,11 +36,11 @@
 </channel>
 
 <channel>
-<name>[COLOR=FFFFFF00]NON-ENGLISH CHANNELS[/COLOR]</name>
+<name>[COLOR=FFFFFF00]SELECTED LIVE CHANNELS[/COLOR]</name>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/flag_world_zpsic7ttnuh.png</thumbnail>
 <fanart>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsyx9pb7xu.png</fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/indiecrew/masterlist/master/movie-neng.xml</externallink>
+<externallink>https://raw.githubusercontent.com/indiecrew/masterlist/master/selected.xml</externallink>
 </channel>
 
 <channel>
