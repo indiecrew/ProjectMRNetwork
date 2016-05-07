@@ -27,7 +27,7 @@
 <externallink>https://raw.githubusercontent.com/indiecrew/masterlist/master/news.xml</externallink>
 </channel>
 
-<channel>
+channel>
 <name>MOVIE CHANNELS</name>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/flag_world_zpsic7ttnuh.png</thumbnail>
 <fanart>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsyx9pb7xu.png</fanart>
@@ -43,7 +43,7 @@
 <externallink>https://raw.githubusercontent.com/indiecrew/masterlist/master/selected.xml</externallink>
 </channel>
 
-<channel>
+channel>
 <name>KIDS CHANNELS</name>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/flag_world_zpsic7ttnuh.png</thumbnail>
 <fanart>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsyx9pb7xu.png</fanart>
