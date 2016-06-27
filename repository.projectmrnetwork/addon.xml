@@ -12,4 +12,8 @@
 		<disclaimer lang="en">MR Network will not responsible for all add-ons on this repository</disclaimer>
 		<platform>all</platform>
 	</extension>
+<<<<<<< HEAD
 </addon>
+=======
+</addon>
+>>>>>>> origin/master
