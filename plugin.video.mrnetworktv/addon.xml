@@ -2,7 +2,7 @@
 
 <addon id="plugin.video.mrnetworktv"
        name="MR Network TV"
-       version="2.1.6"
+       version="3.0.0"
        provider-name="Indiecrew, MalayRevolution Network">
 
   <requires>
@@ -11,12 +11,6 @@
     <import addon="script.module.simple.downloader" version="0.9.4"/>
     <import addon="script.module.beautifulsoup4" />
     <import addon="script.module.simple.downloader" version="0.9.4"/>
-    <import addon="script.module.requests" />
-    <import addon="script.module.httplib2" />
-    <import addon="script.module.youtube.dl" optional="true"/>
-    <import addon="plugin.video.youtube" />
-    <import addon="script.module.urlresolver" optional="true"/>
-    <import addon="script.module.simplejson" />    
   </requires>
 
   <extension point="xbmc.python.pluginsource" library="default.py">
@@ -31,7 +25,7 @@
    <disclaimer lang="en">We DO NOT host any streams or videos on this addon. All content is copyright of their respective owners. We urge all copyright owners, to recognize that links contained within this addon are located somewhere else on the web. The embedded link points to the location of the video on the web. Please direct all copyright infringement issues to the companies that host these files. If you notice something irregular or some copyright abuse please send email to us. Furthermore we take no responsibility for the content or reliability of the feeds. Enjoy while you can.</disclaimer>
     <license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license>
     <forum></forum>
-    <website>www.malayrevolutionnetwork.blogspot.com</website>
+    <website>https://github.com/indiecrew/</website>
     <email>indiecrewteam[at]gmail.com</email>
     <platform>all</platform>
   </extension>
