@@ -10,7 +10,4 @@ def make_release():
 
 if __name__ == '__main__':
   make_release()
-<<<<<<< HEAD
 
-=======
->>>>>>> origin/master
