@@ -1,18 +1,8 @@
 [B]Version 2.0.0[/B]
 
-<<<<<<< HEAD
-
-
-=======
->>>>>>> origin/master
 - A few updates and major maintenance update to clean up some code
 
 [B]Version 1.0.0[/B]
 
-<<<<<<< HEAD
-
-
 - Initial release
-=======
-- Initial release
->>>>>>> origin/master
+
