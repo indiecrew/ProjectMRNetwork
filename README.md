@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/indiecrew/ProjectMRNetwork/master/repository.projectmrnetwork/icon.png" border="0" width="200" align="center"> 
+<img src="https://raw.githubusercontent.com/indiecrew/ProjectMRNetwork/master/repository.projectmrnetwork/icon.png" border="0" width="400" align="center"> 
 
 ## Project MR Network
 ------------
