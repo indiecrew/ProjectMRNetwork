@@ -1,0 +1,8 @@
+[B]Version 3.0.0[/B]
+
+- the third release of the MR Network TV addon
+- A few updates to make MR Network TV even better
+
+[B]Disclaimer:[/B]
+
+We do not maintain or stream the content in this addon. If the channel is not working, simply wait for the next update and then it may or may not be working. Some channels in this addon maybe illegal in your country - please check with your local laws before install this addon. Thank you.
