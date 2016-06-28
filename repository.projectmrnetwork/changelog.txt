@@ -1,5 +1,7 @@
+[B]Version 2.0.0[/B]
+
+- Bug fixes
+
 [B]Version 1.0.0[/B]
-
-
 
 - Initial release
