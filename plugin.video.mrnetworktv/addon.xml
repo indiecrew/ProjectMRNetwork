@@ -2,7 +2,7 @@
 
 <addon id="plugin.video.mrnetworktv"
        name="MR Network TV"
-       version="3.0.4"
+       version="3.0.5"
        provider-name="Indiecrew, MalayRevolution Network">
 
   <requires>
