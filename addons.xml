@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-<addon id="plugin.video.mrnetworktv" name="MR Network TV" version="3.0.4" provider-name="Indiecrew, MalayRevolution Network">
+<addon id="plugin.video.mrnetworktv" name="MR Network TV" version="3.0.5" provider-name="Indiecrew, MalayRevolution Network">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
     <import addon="script.module.beautifulsoup" version="3.2.1"/>
