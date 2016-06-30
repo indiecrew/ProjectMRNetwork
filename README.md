@@ -6,6 +6,10 @@ This repo is free and it's not associated with official Kodi devs. These are 3rd
 
 Repo Main Page (This page) https://github.com/indiecrew/ProjectMRNetwork
 
+The repository can be installed from zip 
+
+https://github.com/indiecrew/ProjectMRNetwork/raw/master/repository.projectmrnetwork/repository.projectmrnetwork-2.0.0.zip
+
 ## Repo Installation
 ------------
 
