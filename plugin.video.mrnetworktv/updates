@@ -5,7 +5,9 @@ http://ignoreme
 
 #EXTINF:-1 , [COLOR lightgreen]Update: August 28, 2016[/COLOR]
 http://ignoreme
-#EXTINF:-1 , Fixed channel (Australia, China, Philippines, South Korea, Taiwan, Thailand, UAE)
+#EXTINF:-1 , Fixed channel (Australia, China, Hong Kong, Philippines)
+http://ignoreme
+#EXTINF:-1 , Fixed channel (South Korea, Taiwan, Thailand, UAE)
 http://ignoreme
 #EXTINF:-1 , Add Palestine channel
 http://ignoreme
