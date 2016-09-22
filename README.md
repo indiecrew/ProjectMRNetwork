@@ -10,6 +10,10 @@ The repository can be installed from zip
 
 https://github.com/indiecrew/ProjectMRNetwork/raw/master/repository.projectmrnetwork/repository.projectmrnetwork-2.0.0.zip
 
+or
+
+http://tiny.cc/MRTV2
+
 ## Repo Installation
 ------------
 
