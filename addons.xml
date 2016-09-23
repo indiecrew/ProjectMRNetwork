@@ -1,20 +1,34 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-<addon id="plugin.video.mrnetworktv" name="MR Network TV" version="3.0.5" provider-name="Indiecrew, MalayRevolution Network">
-  <requires>
+<addon id="plugin.video.mrnetworktv"
+       name="MR Network TV"
+       version="3.0.6"
+       provider-name="Indiecrew, MalayRevolution Network">
+   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
     <import addon="script.module.beautifulsoup" version="3.2.1"/>
     <import addon="script.module.simple.downloader" version="0.9.4"/>
     <import addon="script.module.beautifulsoup4" />
-    <import addon="script.module.simple.downloader" version="0.9.4"/>
+    <import addon="script.module.requests" />
+    <import addon="script.module.httplib2" />
+    <import addon="script.module.youtube.dl" optional="true"/>
+    <import addon="plugin.video.youtube" />
+    <import addon="script.module.urlresolver" optional="true"/>
+    <import addon="script.module.simplejson" />    
+    <import addon="script.module.metahandler" version="2.5.1"/>
+    <import addon="repository.shani" version="2.8"/>
+    <import addon="plugin.video.f4mTester" optional="true"/>
+    <import addon="plugin.video.SportsDevil" optional="true"/>
   </requires>
   <extension point="xbmc.python.pluginsource" library="default.py">
     <provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
-    <summary lang="en">Watch livestreaming with MalayRevolution Network TV</summary>
-    <description lang="en">MalayRevolution Network TV is an open source project. This add-on is not for sale but for private usage only.</description>
-    <disclaimer lang="en">We DO NOT host any streams or videos on this addon. All content is copyright of their respective owners. We urge all copyright owners, to recognize that links contained within this addon are located somewhere else on the web. The embedded link points to the location of the video on the web. Please direct all copyright infringement issues to the companies that host these files. If you notice something irregular or some copyright abuse please send email to us. Furthermore we take no responsibility for the content or reliability of the feeds. Enjoy while you can.</disclaimer>
+    <summary>Watch livestreaming with MR Network TV</summary>
+    <description>
+	MR Network TV is an open source project. This add-on is not for sale but for private usage only.
+    </description>
+   <disclaimer lang="en">We DO NOT host any streams or videos on this addon. All content is copyright of their respective owners. We urge all copyright owners, to recognize that links contained within this addon are located somewhere else on the web. The embedded link points to the location of the video on the web. Please direct all copyright infringement issues to the companies that host these files. If you notice something irregular or some copyright abuse please send email to us. Furthermore we take no responsibility for the content or reliability of the feeds. Enjoy while you can.</disclaimer>
     <platform>all</platform>
     <language>en</language>
     <license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license>
