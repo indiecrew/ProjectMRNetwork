@@ -1,26 +1,5 @@
-[B]Version 3.0.5[/B]
+[B]Version 3.0.6[/B]
 
-- Bug fixes
-
-[B]Version 3.0.4[/B]
-
-- Bug fixes
-
-[B]Version 3.0.3[/B]
-
-- Bug fixes
-
-[B]Version 3.0.2[/B]
-
-- Bug fixes
-
-[B]Version 3.0.1[/B]
-
-- Bug fixes
-
-[B]Version 3.0.0[/B]
-
-- the third release of the MR Network TV addon
 - A few updates to make MR Network TV even better
 
 [B]Disclaimer:[/B]
