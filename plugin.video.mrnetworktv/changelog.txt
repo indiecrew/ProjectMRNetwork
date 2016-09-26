@@ -1,3 +1,7 @@
+[B]Version 3.0.7[/B]
+
+- Fix simple human error
+
 [B]Version 3.0.6[/B]
 
 - A few updates to make MR Network TV even better

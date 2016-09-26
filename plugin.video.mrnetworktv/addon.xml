@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="plugin.video.mrnetworktv"
        name="MR Network TV"
-       version="3.0.6"
+       version="3.0.7"
        provider-name="Indiecrew, MalayRevolution Network">
    <requires>
     <import addon="xbmc.python" version="2.1.0"/>
@@ -11,13 +11,15 @@
     <import addon="script.module.requests" />
     <import addon="script.module.httplib2" />
     <import addon="script.module.youtube.dl" optional="true"/>
-    <import addon="plugin.video.youtube" />
+    <import addon="plugin.video.youtube" optional="true"/>
     <import addon="script.module.urlresolver" optional="true"/>
     <import addon="script.module.simplejson" />    
     <import addon="script.module.metahandler" version="2.5.1"/>
-    <import addon="repository.shani" version="2.8"/>
     <import addon="plugin.video.f4mTester" optional="true"/>
     <import addon="plugin.video.SportsDevil" optional="true"/>
+    <import addon="script.module.livestreamer"/>
+    <import addon="script.module.pyamf"/>
+    <import addon="script.module.addon.common"/>
   </requires>
   <extension point="xbmc.python.pluginsource" library="default.py">
     <provides>video</provides>
