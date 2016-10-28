@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="plugin.video.matchreplay"
        name="match replay"
-       version="0.0.1"
+       version="0.0.2"
        provider-name="Indiecrew, MalayRevolution Network">
     <requires>
         <import addon="xbmc.python" version="2.1.0"/>
@@ -15,8 +15,8 @@
         <provides>video</provides>
     </extension>
     <extension point="xbmc.addon.metadata">
-        <summary lang="en">Putting together most popular sport games</summary>
-        <description lang="en">Watch latest full matches with MatchReplay. This add-on is not for sale but for private usage only.</description>
+        <summary lang="en">Your favourite sport replay network</summary>
+        <description lang="en">Watch latest full matches replay with MatchReplay. This add-on is not for sale but for private usage only.</description>
 	<disclaimer lang="en">We DO NOT host any streams or videos on this addon. All content is copyright of their respective owners. We urge all copyright owners, to recognize that links contained within this addon are located somewhere else on the web. The embedded link points to the location of the video on the web. Please direct all copyright infringement issues to the companies that host these files. If you notice something irregular or some copyright abuse please send email to us. Furthermore we take no responsibility for the content or reliability of the feeds. We also does not have any affiliation with the content provider.</disclaimer>
 	<platform>all</platform>
     	<language>en</language>
