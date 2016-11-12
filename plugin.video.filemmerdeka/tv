@@ -44,7 +44,8 @@
  
 <item>
 <title>AL-HIJRAH</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tvah-cdn.mynexa.my/tvahlive/smil:tvahlivestream.smil/manifest.f4m</link>
+<link>http://tvah-cdn.mynexa.my/tvahlive/smil:tvahlivestream.smil/playlist.m3u8</link>
+link>plugin://plugin.video.f4mTester/?url=http://tvah-cdn.mynexa.my/tvahlive/smil:tvahlivestream.smil/manifest.f4m</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_alhijrah_zps7om1g57e.png</thumbnail>
 </item>
  
