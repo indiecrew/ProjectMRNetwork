@@ -228,6 +228,36 @@ http://streamin.to/embed-3jedx2whalkc-728x410.html
 http://streamin.to/embed-ka1n15npero3-728x410.html
 #EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/filem_zpsqk2wdmgi.png" group-title="60an", Korban Kasih (1962)
 http://streamin.to/embed-9bzmmk3lmc2l-728x410.html
+#EXTINF:-1, tvg-logo="http://img.freeflagicons.com/thumb/round_icon/malaysia/malaysia_640.png" group-title="tvmal", [B][I][COLOR lightgreen]Last Update: October 2016[/COLOR][/I][/B]
+http://ignoreme
+#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_tv1_zps8mlj4nck.png" group-title="tvmal", TV1
+http://rtm-live.glueapi.io/smil:rtmch001.smil/playlist.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/My_tv2_zpshzwufzrv.png" group-title="tvmal", TV2
+http://rtm-live.glueapi.io/smil:rtmch002/chunklist_b974000_sleng.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-0, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_tv3_zpsccy0afit.png" group-title="tvmal", TV3
+http://ignoreme
+#EXTINF:-0, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_ntv7_zpsmslc5gwf.png" group-title="tvmal", NTV7
+http://ignoreme
+#EXTINF:-0, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_8tv_zpsvhm1dgc8.png" group-title="tvmal", 8TV
+http://ignoreme
+#EXTINF:-0, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_tv9_zpsvy6n5ypz.png" group-title="tvmal", TV9
+http://ignoreme
+#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_alhijrah_zps7om1g57e.png" group-title="tvmal", AL-HIJRAH
+http://tvah-cdn.mynexa.my/tvahlive/smil:tvahlivestream.smil/playlist.m3u8
+#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/tvi_zpsmwdrm674.png" group-title="tvmal", TVi
+http://rtm-live.glueapi.io/smil:rtmch003.smil/chunklist_b974000_sleng.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/muzikaktif_zpswj4untkz.png" group-title="tvmal", MUZIK AKTIF
+http://rtm-live.glueapi.io/smil:rtmch004/chunklist_b974000_sleng.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/1news_zpsdlajzziq.png" group-title="tvmal", 1 NEWS
+http://rtm-live.glueapi.io/smil:rtmch006/chunklist_b974000_sleng.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/rtmparlimen_zpsu1trkjx7.png" group-title="tvmal", RTM PARLIMEN
+http://rtm-live.glueapi.io/smil:rtmch007/chunklist_b950000_sleng.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/tvikim_zpsfj04rhya.png" group-title="tvmal", TV IKIM
+rtmp://cdnvideo.webvideocore.net:1935/tv10nl playpath=42DG7ABF94HAC4G.tv swfUrl=http://play.webvideocore.net/player3.swf/[[DYNAMIC]]/1 pageUrl=http://www.layarku.tv/tvikim.html
+#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_bernamatv_zpswz7nlgor.png" group-title="tvmal", BERNAMA TV
+http://d22b8vh21p20bg.cloudfront.net/mylive/smil:bernama2_all.smil/playlist.m3u8
+#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_awani_zpsssci0ox7.png" group-title="tvmal", ASTRO AWANI
+http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master.m3u8
 #EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/filem_zpsqk2wdmgi.png" group-title="60an", Labu Dan Labi (1962)
 http://streamin.to/embed-5zfcc795uap8-728x410.html
 #EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/filem_zpsqk2wdmgi.png" group-title="60an", Lampong Karam (1967)
@@ -326,6 +356,80 @@ http://streamin.to/embed-o4skp61b2i04-728x410.html
 http://streamin.to/embed-li854g7trc8y-728x410.html
 #EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/filem_zpsqk2wdmgi.png" group-title="80an", Oh Fatimah (1989)
 http://streamin.to/embed-eafdkjihiiml-728x410.html
+#EXTINF:-1, tvg-logo="http://img.freeflagicons.com/thumb/round_icon/malaysia/malaysia_640.png" group-title="radmal", [B][I][COLOR lightgreen]Last Update: October 2016[/COLOR][/I][/B]
+http://ignoreme
+#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/RadioFM/AsyikFM_zpsdp9jlab0.png" group-title="radmal", ASYIK FM
+ttp://dkmgz1nucppmx.cloudfront.net/rtm-ch022/playlist.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/RadioFM/AiFM_zps9vppoztl.png" group-title="radmal", AI FM
+http://dkmgz1nucppmx.cloudfront.net/rtm-ch020/playlist.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/RadioFM/BayuFM_zpsglplwxkg.png" group-title="radmal", BAYU FM
+http://ingest2.astro4.rastream.com/bayu?http://audri.rastream.com/amp-xfm_audri?&amp;authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvaWQiOiJsYXlsaW8iLCJpYXQiOjE0NzQ5Nzk0ODYzNDMsImV4cCI6MTQ3NTA2NTg4NjM0M30.Dif6wo0tLxgpCpTzMIPKEyxMnr4OoCbvNjmqseF9UhU&amp;type=.flv
+#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/RadioFM/BestFM_zpsxykugra9.png" group-title="radmal", BEST FM
+http://s8.voscast.com:8686/;stream.mp3
+#EXTINF:-1, tvg-logo="http://www.treasuremind.biz/images/BFM.gif" group-title="radmal", BFM 89.9
+http://bfm.rastream.com/bfm-bfm899?&amp;authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvaWQiOiJsYXlsaW8iLCJpYXQiOjE0NzM5ODM2NTM4MDMsImV4cCI6MTQ3NDA3MDA1MzgwM30.YRvlOXhL8w9Jdrw-OF_erHlYhM7e72IJSDOOzKJSKEk&listenerid=45a7fc584486bae744182f5d73fed5be&amp;type=.flv
+#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/RadioFM/ClassicRock_zpssdpshlzh.png" group-title="radmal", CLASSIC ROCK FM
+http://astro4.rastream.com/rock?type=.flv
+#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/RadioFM/EraFM_zpseiqsgmx1.png" group-title="radmal", ERA FM
+http://astro2.rastream.com/era?type=.flv
+#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/RadioFM/FlyFM_zpsozofyihg.png" group-title="radmal", FLY FM
+http://mediaprima.rastream.com/mediaprima-flyfm?&amp;authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvaWQiOiJsYXlsaW8iLCJpYXQiOjE0NzI2NTA5OTkzMzgsImV4cCI6MTQ3MjczNzM5OTMzOH0.4Mm8hTBAd8jP53fqS_iVS-kPP76tnx2vBGHp44f2_a0&amp;type=.flv
+#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/RadioFM/GoldFM_zpshggilvir.png" group-title="radmal", GOLD FM
+http://astro4.rastream.com/gold?type=.flv
+#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/RadioFM/HotFM_zpslatlx1u8.png" group-title="radmal", HOT FM
+http://mediaprima.rastream.com/mediaprima-hotfm?&amp;authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvaWQiOiJsYXlsaW8iLCJpYXQiOjE0NzI2NTEzNzk2OTEsImV4cCI6MTQ3MjczNzc3OTY5MX0.N9eOIHNIFd1BGC6oFv9fPDgcZgBP94AV4VfTpBPbtjg&amp;type=.flv
+#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/RadioFM/HitzFM_zpsltcmyqsc.png" group-title="radmal", HITZ FM
+http://astro1.rastream.com/hitz?type=.flv
+#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/RadioFM/IkimFM_zpsf5enombi.png" group-title="radmal", IKIM FM
+http://50.7.96.210:8285/;stream.mp3
+#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/RadioFM/IndiaBeat_zpsyzgvathy.png" group-title="radmal", INDIA BEAT FM
+http://astro4.rastream.com/india?type=.flv
+#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/RadioFM/JazzFM_zps84o3sbuw.png" group-title="radmal", JAZZ FM
+http://astro4.rastream.com/jazz?type=.flv
+#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/RadioFM/KenyalangFM_zpsyxyzwqyf.png" group-title="radmal", KENYALANG FM
+http://ingest2.astro4.rastream.com/kenyalang?type=.flv
+#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/RadioFM/KLFM_zpsvzn72vl8.png" group-title="radmal", KLFM
+http://dkmgz1nucppmx.cloudfront.net/rtm-ch018/playlist.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/RadioFM/KlasikFM_zpsfcaw4xzh.png" group-title="radmal", KLASIK FM
+http://dkmgz1nucppmx.cloudfront.net/rtm-ch016/playlist.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/RadioFM/LiteFM_zpsbpr1f9zh.png" group-title="radmal", LITE FM
+http://astro1.rastream.com/lite?&amp;authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvaWQiOiJsYXlsaW8iLCJpYXQiOjE0NzI2NTIyOTU3MjQsImV4cCI6MTQ3MjczODY5NTcyNH0.Prt_tRAogWZ22hzRCk1sA8GEli_C8SHNxwdifggq_Ko&amp;type=.flv
+#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/RadioFM/MixFM_zpsmg3dqhtt.png" group-title="radmal", MIX FM
+http://astro2.rastream.com/mix?type=.flv
+#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/RadioFM/MyFM_zpseqgw8vi9.png" group-title="radmal", MY FM
+http://astro1.rastream.com/myfm?type=.flv
+#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/RadioFM/MelodyFM_zps97ibjuiw.png" group-title="radmal", MELODY FM
+http://astro3.rastream.com/melody?type=.flv
+#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/RadioFM/MinnalFM_zpsrpmagfls.png" group-title="radmal", MINNAL FM
+http://dkmgz1nucppmx.cloudfront.net/rtm-ch021/playlist.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/RadioFM/NasionalFM_zps4t7g3hcl.png" group-title="radmal", NASIONAL FM
+http://dkmgz1nucppmx.cloudfront.net/rtm-ch017/playlist.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/RadioFM/NurulQuran_zpsuhbcdpyq.png" group-title="radmal", NURUL QURAN FM
+http://cloud.tujuh.my:8073/stream
+#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/RadioFM/OneFM_zpso8sowlsv.png" group-title="radmal", ONE FM
+http://mediaprima.rastream.com/mediaprima-onefm?&amp;authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvaWQiOiJsYXlsaW8iLCJpYXQiOjE0NzI2NTEzNzk2OTEsImV4cCI6MTQ3MjczNzc3OTY5MX0.N9eOIHNIFd1BGC6oFv9fPDgcZgBP94AV4VfTpBPbtjg&amp;type=.flv
+#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/RadioFM/OpusFM_zpsekw1xlh2.png" group-title="radmal", OPUS FM
+http://astro4.rastream.com/opus?type=.flv
+#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/RadioFM/OsaiFM_zpstajx58fo.png" group-title="radmal", OSAI FM
+http://astro4.rastream.com/osai?type=.flv
+#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/RadioFM/RedFM_zpsrrtk5zd3.png" group-title="radmal", RED FM
+http://starrfm.rastream.com/starrfm-redfm?type=.flv
+#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/RadioFM/SuriaFM_zpsflw4vnnw.png" group-title="radmal", SURIA FM
+http://starrfm.rastream.com/starrfm-suria?type=.flv
+#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/RadioFM/SinarFM_zpseo3limqi.png" group-title="radmal", SINAR FM
+http://astro2.rastream.com/sinar?type=.flv
+#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/RadioFM/ThrGegar_zps62a7mbgf.png" group-title="radmal", THR GEGAR
+http://astro3.rastream.com/gegar?type=.flv
+#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/RadioFM/ThrRaaga_zpsudmylnvh.png" group-title="radmal", THR RAAGA
+http://astro3.rastream.com/raaga?type=.flv
+#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/RadioFM/TraxxFM_zpsiq7htrmr.png" group-title="radmal", TRAXX FM
+http://dkmgz1nucppmx.cloudfront.net/rtm-ch019/playlist.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/RadioFM/VFM_zpsaziokwbj.png" group-title="radmal", VFM
+http://dkmgz1nucppmx.cloudfront.net/rtm-ch024/playlist.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/RadioFM/WaiFM_zpsutv1lool.png" group-title="radmal", WAI FM
+http://dkmgz1nucppmx.cloudfront.net/rtm-ch025/playlist.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/RadioFM/XFM_zpstjzl8hci.png" group-title="radmal", XFRESH FM
+http://audri.rastream.com/amp-xfm_audri?type=.flv
 #EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/filem_zpsqk2wdmgi.png" group-title="60an", Panji Semerang (1961)
 http://streamin.to/embed-owccra6ie1r5-728x410.html
 #EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/filem_zpsqk2wdmgi.png" group-title="80an", Pagar Pagar Cinta (1984)
@@ -486,107 +590,3 @@ http://streamin.to/embed-zn6ysnfa6so6-728x410.html
 http://streamin.to/embed-s9vbje9l9hth-728x410.html
 #EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/filem_zpsqk2wdmgi.png" group-title="60an", Yatim Mustapha (1961)
 http://streamin.to/embed-m51yq8rgxh6l-728x410.html
-#EXTINF:-1, tvg-logo="http://img.freeflagicons.com/thumb/round_icon/malaysia/malaysia_640.png" group-title="tvmal", [B][I][COLOR lightgreen]Last Update: October 2016[/COLOR][/I][/B]
-http://ignoreme
-#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_tv1_zps8mlj4nck.png" group-title="tvmal", TV1
-http://rtm-live.glueapi.io/smil:rtmch001.smil/playlist.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/My_tv2_zpshzwufzrv.png" group-title="tvmal", TV2
-http://rtm-live.glueapi.io/smil:rtmch002/chunklist_b974000_sleng.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-0, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_tv3_zpsccy0afit.png" group-title="tvmal", TV3
-http://ignoreme
-#EXTINF:-0, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_ntv7_zpsmslc5gwf.png" group-title="tvmal", NTV7
-http://ignoreme
-#EXTINF:-0, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_8tv_zpsvhm1dgc8.png" group-title="tvmal", 8TV
-http://ignoreme
-#EXTINF:-0, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_tv9_zpsvy6n5ypz.png" group-title="tvmal", TV9
-http://ignoreme
-#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_alhijrah_zps7om1g57e.png" group-title="tvmal", AL-HIJRAH
-http://tvah-cdn.mynexa.my/tvahlive/smil:tvahlivestream.smil/playlist.m3u8
-#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/tvi_zpsmwdrm674.png" group-title="tvmal", TVi
-http://rtm-live.glueapi.io/smil:rtmch003.smil/chunklist_b974000_sleng.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/muzikaktif_zpswj4untkz.png" group-title="tvmal", MUZIK AKTIF
-http://rtm-live.glueapi.io/smil:rtmch004/chunklist_b974000_sleng.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/1news_zpsdlajzziq.png" group-title="tvmal", 1 NEWS
-http://rtm-live.glueapi.io/smil:rtmch006/chunklist_b974000_sleng.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/rtmparlimen_zpsu1trkjx7.png" group-title="tvmal", RTM PARLIMEN
-http://rtm-live.glueapi.io/smil:rtmch007/chunklist_b950000_sleng.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/tvikim_zpsfj04rhya.png" group-title="tvmal", TV IKIM
-rtmp://cdnvideo.webvideocore.net:1935/tv10nl playpath=42DG7ABF94HAC4G.tv swfUrl=http://play.webvideocore.net/player3.swf/[[DYNAMIC]]/1 pageUrl=http://www.layarku.tv/tvikim.html
-#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_bernamatv_zpswz7nlgor.png" group-title="tvmal", BERNAMA TV
-http://d22b8vh21p20bg.cloudfront.net/mylive/smil:bernama2_all.smil/playlist.m3u8
-#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_awani_zpsssci0ox7.png" group-title="tvmal", ASTRO AWANI
-http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master.m3u8
-#EXTINF:-1, tvg-logo="http://img.freeflagicons.com/thumb/round_icon/malaysia/malaysia_640.png" group-title="radmal", [B][I][COLOR lightgreen]Last Update: October 2016[/COLOR][/I][/B]
-http://ignoreme
-#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/RadioFM/AsyikFM_zpsdp9jlab0.png" group-title="radmal", ASYIK FM
-ttp://dkmgz1nucppmx.cloudfront.net/rtm-ch022/playlist.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/RadioFM/AiFM_zps9vppoztl.png" group-title="radmal", AI FM
-http://dkmgz1nucppmx.cloudfront.net/rtm-ch020/playlist.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/RadioFM/BayuFM_zpsglplwxkg.png" group-title="radmal", BAYU FM
-http://ingest2.astro4.rastream.com/bayu?http://audri.rastream.com/amp-xfm_audri?&amp;authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvaWQiOiJsYXlsaW8iLCJpYXQiOjE0NzQ5Nzk0ODYzNDMsImV4cCI6MTQ3NTA2NTg4NjM0M30.Dif6wo0tLxgpCpTzMIPKEyxMnr4OoCbvNjmqseF9UhU&amp;type=.flv
-#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/RadioFM/BestFM_zpsxykugra9.png" group-title="radmal", BEST FM
-http://s8.voscast.com:8686/;stream.mp3
-#EXTINF:-1, tvg-logo="http://www.treasuremind.biz/images/BFM.gif" group-title="radmal", BFM 89.9
-http://bfm.rastream.com/bfm-bfm899?&amp;authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvaWQiOiJsYXlsaW8iLCJpYXQiOjE0NzM5ODM2NTM4MDMsImV4cCI6MTQ3NDA3MDA1MzgwM30.YRvlOXhL8w9Jdrw-OF_erHlYhM7e72IJSDOOzKJSKEk&listenerid=45a7fc584486bae744182f5d73fed5be&amp;type=.flv
-#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/RadioFM/ClassicRock_zpssdpshlzh.png" group-title="radmal", CLASSIC ROCK FM
-http://astro4.rastream.com/rock?type=.flv
-#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/RadioFM/EraFM_zpseiqsgmx1.png" group-title="radmal", ERA FM
-http://astro2.rastream.com/era?type=.flv
-#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/RadioFM/FlyFM_zpsozofyihg.png" group-title="radmal", FLY FM
-http://mediaprima.rastream.com/mediaprima-flyfm?&amp;authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvaWQiOiJsYXlsaW8iLCJpYXQiOjE0NzI2NTA5OTkzMzgsImV4cCI6MTQ3MjczNzM5OTMzOH0.4Mm8hTBAd8jP53fqS_iVS-kPP76tnx2vBGHp44f2_a0&amp;type=.flv
-#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/RadioFM/GoldFM_zpshggilvir.png" group-title="radmal", GOLD FM
-http://astro4.rastream.com/gold?type=.flv
-#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/RadioFM/HotFM_zpslatlx1u8.png" group-title="radmal", HOT FM
-http://mediaprima.rastream.com/mediaprima-hotfm?&amp;authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvaWQiOiJsYXlsaW8iLCJpYXQiOjE0NzI2NTEzNzk2OTEsImV4cCI6MTQ3MjczNzc3OTY5MX0.N9eOIHNIFd1BGC6oFv9fPDgcZgBP94AV4VfTpBPbtjg&amp;type=.flv
-#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/RadioFM/HitzFM_zpsltcmyqsc.png" group-title="radmal", HITZ FM
-http://astro1.rastream.com/hitz?type=.flv
-#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/RadioFM/IkimFM_zpsf5enombi.png" group-title="radmal", IKIM FM
-http://50.7.96.210:8285/;stream.mp3
-#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/RadioFM/IndiaBeat_zpsyzgvathy.png" group-title="radmal", INDIA BEAT FM
-http://astro4.rastream.com/india?type=.flv
-#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/RadioFM/JazzFM_zps84o3sbuw.png" group-title="radmal", JAZZ FM
-http://astro4.rastream.com/jazz?type=.flv
-#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/RadioFM/KenyalangFM_zpsyxyzwqyf.png" group-title="radmal", KENYALANG FM
-http://ingest2.astro4.rastream.com/kenyalang?type=.flv
-#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/RadioFM/KLFM_zpsvzn72vl8.png" group-title="radmal", KLFM
-http://dkmgz1nucppmx.cloudfront.net/rtm-ch018/playlist.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/RadioFM/KlasikFM_zpsfcaw4xzh.png" group-title="radmal", KLASIK FM
-http://dkmgz1nucppmx.cloudfront.net/rtm-ch016/playlist.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/RadioFM/LiteFM_zpsbpr1f9zh.png" group-title="radmal", LITE FM
-http://astro1.rastream.com/lite?&amp;authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvaWQiOiJsYXlsaW8iLCJpYXQiOjE0NzI2NTIyOTU3MjQsImV4cCI6MTQ3MjczODY5NTcyNH0.Prt_tRAogWZ22hzRCk1sA8GEli_C8SHNxwdifggq_Ko&amp;type=.flv
-#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/RadioFM/MixFM_zpsmg3dqhtt.png" group-title="radmal", MIX FM
-http://astro2.rastream.com/mix?type=.flv
-#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/RadioFM/MyFM_zpseqgw8vi9.png" group-title="radmal", MY FM
-http://astro1.rastream.com/myfm?type=.flv
-#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/RadioFM/MelodyFM_zps97ibjuiw.png" group-title="radmal", MELODY FM
-http://astro3.rastream.com/melody?type=.flv
-#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/RadioFM/MinnalFM_zpsrpmagfls.png" group-title="radmal", MINNAL FM
-http://dkmgz1nucppmx.cloudfront.net/rtm-ch021/playlist.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/RadioFM/NasionalFM_zps4t7g3hcl.png" group-title="radmal", NASIONAL FM
-http://dkmgz1nucppmx.cloudfront.net/rtm-ch017/playlist.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/RadioFM/NurulQuran_zpsuhbcdpyq.png" group-title="radmal", NURUL QURAN FM
-http://cloud.tujuh.my:8073/stream
-#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/RadioFM/OneFM_zpso8sowlsv.png" group-title="radmal", ONE FM
-http://mediaprima.rastream.com/mediaprima-onefm?&amp;authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvaWQiOiJsYXlsaW8iLCJpYXQiOjE0NzI2NTEzNzk2OTEsImV4cCI6MTQ3MjczNzc3OTY5MX0.N9eOIHNIFd1BGC6oFv9fPDgcZgBP94AV4VfTpBPbtjg&amp;type=.flv
-#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/RadioFM/OpusFM_zpsekw1xlh2.png" group-title="radmal", OPUS FM
-http://astro4.rastream.com/opus?type=.flv
-#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/RadioFM/OsaiFM_zpstajx58fo.png" group-title="radmal", OSAI FM
-http://astro4.rastream.com/osai?type=.flv
-#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/RadioFM/RedFM_zpsrrtk5zd3.png" group-title="radmal", RED FM
-http://starrfm.rastream.com/starrfm-redfm?type=.flv
-#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/RadioFM/SuriaFM_zpsflw4vnnw.png" group-title="radmal", SURIA FM
-http://starrfm.rastream.com/starrfm-suria?type=.flv
-#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/RadioFM/SinarFM_zpseo3limqi.png" group-title="radmal", SINAR FM
-http://astro2.rastream.com/sinar?type=.flv
-#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/RadioFM/ThrGegar_zps62a7mbgf.png" group-title="radmal", THR GEGAR
-http://astro3.rastream.com/gegar?type=.flv
-#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/RadioFM/ThrRaaga_zpsudmylnvh.png" group-title="radmal", THR RAAGA
-http://astro3.rastream.com/raaga?type=.flv
-#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/RadioFM/TraxxFM_zpsiq7htrmr.png" group-title="radmal", TRAXX FM
-http://dkmgz1nucppmx.cloudfront.net/rtm-ch019/playlist.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/RadioFM/VFM_zpsaziokwbj.png" group-title="radmal", VFM
-http://dkmgz1nucppmx.cloudfront.net/rtm-ch024/playlist.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/RadioFM/WaiFM_zpsutv1lool.png" group-title="radmal", WAI FM
-http://dkmgz1nucppmx.cloudfront.net/rtm-ch025/playlist.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/RadioFM/XFM_zpstjzl8hci.png" group-title="radmal", XFRESH FM
-http://audri.rastream.com/amp-xfm_audri?type=.flv
