@@ -58,6 +58,20 @@
     	<source>https://github.com/indiecrew</source>
     </extension>
 </addon>
+<addon id="plugin.video.filemmalaya" name="filem malaya" version="0.0.1" provider-name="indiecrew">
+    <requires>
+        <import addon="xbmc.python" version="2.1.0"/>
+        <import addon="script.module.urlresolver" optional="true"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en">[COLOR skyblue]Filem Malaya[/COLOR] | Filem untuk semua</summary>
+        <description lang="en">Sokonglah industri filem tempatan. Add-on ini bukan untuk jualan tetapi untuk kegunaan sendiri sahaja.</description>
+	<disclaimer lang="en">We DO NOT host any streams or videos on this addon. All content is copyright of their respective owners. We urge all copyright owners, to recognize that links contained within this addon are located somewhere else on the web. The embedded link points to the location of the video on the web. Please direct all copyright infringement issues to the companies that host these files. If you notice something irregular or some copyright abuse please send email to us. Furthermore we take no responsibility for the content or reliability of the feeds. We also does not have any affiliation with the content provider.</disclaimer>
+    </extension>
+</addon>
 <addon id="repository.projectmrnetwork" name="Project MR Network" version="2.0.0" provider-name="Indiecrew, MalayRevolution Network">
 	<extension point="xbmc.addon.repository" name="MR Network Repository">
 		<info compressed="false">https://raw.githubusercontent.com/indiecrew/ProjectMRNetwork/master/addons.xml</info>
