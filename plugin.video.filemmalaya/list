@@ -46,7 +46,7 @@ plugin://plugin.video.youtube/?action=play_video&amp;videoid=wpURRzbUwW0
 plugin://plugin.video.youtube/?action=play_video&amp;videoid=jo1AGfqShEg
 #EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/filem_zpsqk2wdmgi.png" group-title="60an", Anak Buloh Betong (1966)
 plugin://plugin.video.youtube/?action=play_video&amp;videoid=Gjen3GxRd9w
-#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/filem_zpsqk2wdmgi.png" group-title="80an", Anak Niat (1984)
+#EXTINF:-0, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/filem_zpsqk2wdmgi.png" group-title="80an", Anak Niat (1984)
 http://streamin.to/embed-vqu8gnbsofq6-728x410.html
 #EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/filem_zpsqk2wdmgi.png" group-title="50an", Anak Pontianak (1958)
 plugin://plugin.video.youtube/?action=play_video&amp;videoid=zBZzpDS83Dw
@@ -72,11 +72,11 @@ plugin://plugin.video.youtube/?action=play_video&amp;videoid=IQyIC97EB3Q
 plugin://plugin.video.youtube/?action=play_video&amp;videoid=Pc5-AF5CAO8
 #EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/filem_zpsqk2wdmgi.png" group-title="80an", Azura (1984)
 plugin://plugin.video.youtube/?action=play_video&amp;videoid=CfDpye4FiCY
-#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/filem_zpsqk2wdmgi.png" group-title="60an", Badang (1962)
+#EXTINF:-0, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/filem_zpsqk2wdmgi.png" group-title="60an", Badang (1962)
 http://streamin.to/embed-cvf37ymchrkm-728x410.html
 #EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/filem_zpsqk2wdmgi.png" group-title="80an", Balik Kampung (1986)
 plugin://plugin.video.youtube/?action=play_video&amp;videoid=_p3qgcnQXds
-#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/filem_zpsqk2wdmgi.png" group-title="80an", Bas Konduktor (1986)
+#EXTINF:-0, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/filem_zpsqk2wdmgi.png" group-title="80an", Bas Konduktor (1986)
 http://streamin.to/embed-bhizu5j6mva6-728x410.html
 #EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/filem_zpsqk2wdmgi.png" group-title="50an", Batu Belah Batu Bertangkup (1959)
 plugin://plugin.video.youtube/?action=play_video&amp;videoid=bsqBNfu0jok
@@ -94,7 +94,7 @@ plugin://plugin.video.youtube/?action=play_video&amp;videoid=75RSxstoUAo
 plugin://plugin.video.youtube/?action=play_video&amp;videoid=FbcJ93Xu3s8
 #EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/filem_zpsqk2wdmgi.png" group-title="80an", Bujang Selamat (1985)
 plugin://plugin.video.youtube/?action=play_video&amp;videoid=sDdZ6e0uQIY
-#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/filem_zpsqk2wdmgi.png" group-title="80an", Bukit Kepong (1981)
+#EXTINF:-0, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/filem_zpsqk2wdmgi.png" group-title="80an", Bukit Kepong (1981)
 http://streamin.to/embed-r8ph1jdqqtsg-728x410.html
 #EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/filem_zpsqk2wdmgi.png" group-title="60an", Bunga Tanjong (1963)
 plugin://plugin.video.youtube/?action=play_video&amp;videoid=siTx6UdCUDM
@@ -102,7 +102,7 @@ plugin://plugin.video.youtube/?action=play_video&amp;videoid=siTx6UdCUDM
 plugin://plugin.video.youtube/?action=play_video&amp;videoid=Dv1YzPlRO4U
 #EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/filem_zpsqk2wdmgi.png" group-title="70an", Ceritaku Ceritamu (1979)
 plugin://plugin.video.youtube/?action=play_video&amp;videoid=Yl_YbbhyP2U
-#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/filem_zpsqk2wdmgi.png" group-title="80an", Cikgu Sayang (1983)
+#EXTINF:-0, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/filem_zpsqk2wdmgi.png" group-title="80an", Cikgu Sayang (1983)
 http://streamin.to/embed-zkokmfzss9so-728x410.html
 #EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/filem_zpsqk2wdmgi.png" group-title="50an", Chinta (1948)
 plugin://plugin.video.youtube/?action=play_video&amp;videoid=YvQ0EyoI0Yg
@@ -117,14 +117,14 @@ plugin://plugin.video.youtube/?action=play_video&amp;videoid=5t7X3iPYpoc
 #EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/filem_zpsqk2wdmgi.png" group-title="60an", Darah Muda (1963)
 plugin://plugin.video.youtube/?action=play_video&amp;videoid=nRWCxzZL8jM
 #EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/filem_zpsqk2wdmgi.png" group-title="80an", Darah Satria (1983)
-http://streamin.to/embed-ox3im3aiff39-728x410.html
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=cx7fxLyDM8o
 #EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/filem_zpsqk2wdmgi.png" group-title="60an", Dang Anom (1962)
 plugin://plugin.video.youtube/?action=play_video&amp;videoid=pGZbFFmQAdw
 #EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/filem_zpsqk2wdmgi.png" group-title="60an", Dayang Senandung (1965)
 plugin://plugin.video.youtube/?action=play_video&amp;videoid=Yc-yUKrvuXU
 #EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/filem_zpsqk2wdmgi.png" group-title="80an", Dendang Perantau (1980)
 plugin://plugin.video.youtube/?action=play_video&amp;videoid=DOqD4Jz8NJg
-#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/filem_zpsqk2wdmgi.png" group-title="70an", Detik 12 Malam (1979)
+#EXTINF:-0, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/filem_zpsqk2wdmgi.png" group-title="70an", Detik 12 Malam (1979)
 http://streamin.to/embed-1nrkwbfnb8rj-728x410.html
 #EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/filem_zpsqk2wdmgi.png" group-title="50an", Dewi Murni (1950)
 plugin://plugin.video.youtube/?action=play_video&amp;videoid=2mOoDSCfnIY
@@ -159,7 +159,7 @@ plugin://plugin.video.youtube/?action=play_video&amp;videoid=Bp-yidYXnVM
 #EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/filem_zpsqk2wdmgi.png" group-title="70an", Gila Gila (1979)
 plugin://plugin.video.youtube/?action=play_video&amp;videoid=rAnRUcFHGtw
 #EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/filem_zpsqk2wdmgi.png" group-title="80an", Gila Gila Remaja (1986)
-http://streamin.to/embed-o7vjx0csqypz-728x410.html
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=tzi1kK9V1aI
 #EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/filem_zpsqk2wdmgi.png" group-title="60an", Gila Talak (1963)
 plugin://plugin.video.youtube/?action=play_video&amp;videoid=dWACsPzB05E
 #EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/filem_zpsqk2wdmgi.png" group-title="60an", Gul Bakawali (1963)
@@ -197,7 +197,7 @@ plugin://plugin.video.youtube/?action=play_video&amp;videoid=lChwHH40sO4
 #EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/filem_zpsqk2wdmgi.png" group-title="60an", Indera Bangsawan (1961)
 plugin://plugin.video.youtube/?action=play_video&amp;videoid=l881Aas5qdw
 #EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/filem_zpsqk2wdmgi.png" group-title="60an", Jalak Lentang (1961)
-http://streamin.to/embed-ipmiol104fqt-728x410.html
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=AVSSHWCozFk
 #EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/filem_zpsqk2wdmgi.png" group-title="70an", Jangan Tinggal Daku (1971)
 plugin://plugin.video.youtube/?action=play_video&amp;videoid=4MzeAu5FVhY
 #EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/filem_zpsqk2wdmgi.png" group-title="60an", Jebak Maut (1967)
@@ -216,24 +216,24 @@ plugin://plugin.video.youtube/?action=play_video&amp;videoid=8E7jJIc27f4
 plugin://plugin.video.youtube/?action=play_video&amp;videoid=SKfHfCswboI
 #EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/filem_zpsqk2wdmgi.png" group-title="60an", Kaca Permata (1966)
 plugin://plugin.video.youtube/?action=play_video&amp;videoid=hYFgszT_lnc
-#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/filem_zpsqk2wdmgi.png" group-title="80an", Kala (1982)
+#EXTINF:-0, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/filem_zpsqk2wdmgi.png" group-title="80an", Kala (1982)
 http://streamin.to/embed-tjk0htrclojp-728x410.html
 #EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/filem_zpsqk2wdmgi.png" group-title="50an", Kaki Kuda (1958)
 plugin://plugin.video.youtube/?action=play_video&amp;videoid=eEufH5z0-p0
 #EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/filem_zpsqk2wdmgi.png" group-title="80an", Kami (1982)
-http://streamin.to/embed-dqe0npyirtgu-728x410.html
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=VIOgAAKa-sY
 #EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/filem_zpsqk2wdmgi.png" group-title="60an", Kanchan Tirana (1969)
 plugin://plugin.video.youtube/?action=play_video&amp;videoid=igr_x3hzzKA
 #EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/filem_zpsqk2wdmgi.png" group-title="50an", Kechewa (1954)
 plugin://plugin.video.youtube/?action=play_video&amp;videoid=lnCFoLSGV0M
 #EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/filem_zpsqk2wdmgi.png" group-title="60an", Keluarga 69 (1967)
 plugin://plugin.video.youtube/?action=play_video&amp;videoid=xiZwP6BmYBw
-#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/filem_zpsqk2wdmgi.png" group-title="80an", Keluarga 99 (1987)
+#EXTINF:-0, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/filem_zpsqk2wdmgi.png" group-title="80an", Keluarga 99 (1987)
 http://streamin.to/embed-sxmecenk1yoj-728x410.html
 #EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/filem_zpsqk2wdmgi.png" group-title="50an", Kembar (1950)
 plugin://plugin.video.youtube/?action=play_video&amp;videoid=aNw6gcaONbI
 #EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/filem_zpsqk2wdmgi.png" group-title="80an", Kembar Siam (1988)
-http://streamin.to/embed-awu0pmse51o5-728x410.html
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=YqJOYiobFPA
 #EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/filem_zpsqk2wdmgi.png" group-title="80an", Kembara Seniman Jalanan (1986)
 plugin://plugin.video.youtube/?action=play_video&amp;videoid=WCP5LdzXWLo
 #EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/filem_zpsqk2wdmgi.png" group-title="50an", Kembali Saorang (1957)
@@ -244,9 +244,9 @@ plugin://plugin.video.youtube/?action=play_video&amp;videoid=we88GtXOKSc
 plugin://plugin.video.youtube/?action=play_video&amp;videoid=T0jAnUsjFgE
 #EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/filem_zpsqk2wdmgi.png" group-title="60an", Keris Emas (1969)
 plugin://plugin.video.youtube/?action=play_video&amp;videoid=x5A0FsOw_9I
-#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/filem_zpsqk2wdmgi.png" group-title="50an", Kipas Hikmat (1955)
+#EXTINF:-0, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/filem_zpsqk2wdmgi.png" group-title="50an", Kipas Hikmat (1955)
 http://streamin.to/embed-297q15vwvmux-728x410.html
-#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/filem_zpsqk2wdmgi.png" group-title="70an", Kisah Seorang Biduan (1978)
+#EXTINF:-0, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/filem_zpsqk2wdmgi.png" group-title="70an", Kisah Seorang Biduan (1978)
 http://streamin.to/embed-sg1wovr4kr8a-728x410.html
 #EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/filem_zpsqk2wdmgi.png" group-title="60an", Korban Kasih (1962)
 plugin://plugin.video.youtube/?action=play_video&amp;videoid=sK7T3Oh1AzA
@@ -299,7 +299,7 @@ plugin://plugin.video.youtube/?action=play_video&amp;videoid=cf8qy-AOd7A
 #EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/filem_zpsqk2wdmgi.png" group-title="70an", Lobang Nuraka (1970)
 plugin://plugin.video.youtube/?action=play_video&amp;videoid=9MXFJ2C0gJM
 #EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/filem_zpsqk2wdmgi.png" group-title="70an", Loceng Maut (1977)
-http://streamin.to/embed-kldngeikqwu9-728x410.html
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=MAKJTBgIOao
 #EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/filem_zpsqk2wdmgi.png" group-title="60an", Lubalang Daik (1962)
 plugin://plugin.video.youtube/?action=play_video&amp;videoid=AG5jPGAUn3Y
 #EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/filem_zpsqk2wdmgi.png" group-title="60an", Madu Tiga (1964)
@@ -327,14 +327,14 @@ plugin://plugin.video.youtube/?action=play_video&amp;videoid=Oc1uCknhG2Q
 #EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/filem_zpsqk2wdmgi.png" group-title="70an", Mat Magic (1971)
 plugin://plugin.video.youtube/?action=play_video&amp;videoid=UYWalw60nZs
 #EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/filem_zpsqk2wdmgi.png" group-title="80an", Mat Salleh Pahlawan Sabah (1983)
-http://streamin.to/embed-rktfli082tb6-728x410.html
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=fALI7QQ52wc
 #EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/filem_zpsqk2wdmgi.png" group-title="70an", Mat Tenggek (1979)
 plugin://plugin.video.youtube/?action=play_video&amp;videoid=5V2pEFDVn1k
 #EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/filem_zpsqk2wdmgi.png" group-title="60an", Mat Toyol (1969)
 plugin://plugin.video.youtube/?action=play_video&amp;videoid=r9MDr24KWH8
 #EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/filem_zpsqk2wdmgi.png" group-title="60an", Mat Tiga Suku (1964)
 plugin://plugin.video.youtube/?action=play_video&amp;videoid=qWu7VK7jysA
-#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/filem_zpsqk2wdmgi.png" group-title="60an", Mata Shaitan (1962)
+#EXTINF:-0, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/filem_zpsqk2wdmgi.png" group-title="60an", Mata Shaitan (1962)
 http://streamin.to/embed-eeafq4wigkfj-728x410.html
 #EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/filem_zpsqk2wdmgi.png" group-title="80an", Matinya Seorang Patriot (1984)
 plugin://plugin.video.youtube/?action=play_video&amp;videoid=OiWXy-FUXlg
@@ -355,7 +355,7 @@ http://streamin.to/embed-xz9eno8ki3k4-728x410.html
 #EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/filem_zpsqk2wdmgi.png" group-title="50an", Mogok (1957)
 plugin://plugin.video.youtube/?action=play_video&amp;videoid=Tk3TgtbWU1U
 #EXTINF:-0, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/filem_zpsqk2wdmgi.png" group-title="80an", Mr Os (1987)
-http://streamin.to/embed-xsjo5uly4hfv-728x410.html
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=alhdUpVQ9P8
 #EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/filem_zpsqk2wdmgi.png" group-title="60an", Muda Mudi (1965)
 plugin://plugin.video.youtube/?action=play_video&amp;videoid=_MLPuVwMpzg
 #EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/filem_zpsqk2wdmgi.png" group-title="50an", Musang Berjanggut (1959)
@@ -479,11 +479,11 @@ plugin://plugin.video.youtube/?action=play_video&amp;videoid=AQpWAP1SIFk
 #EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/filem_zpsqk2wdmgi.png" group-title="80an", Penyamun Tarbus (1981)
 plugin://plugin.video.youtube/?action=play_video&amp;videoid=E6oiTyDEqxc
 #EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/filem_zpsqk2wdmgi.png" group-title="80an", Perawan Malam (1988)
-http://streamin.to/embed-97kt7zvvgx89-728x410.html
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=-yLSK5oH1JE
 #EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/filem_zpsqk2wdmgi.png" group-title="70an", Perentah Seri Paduka (1970)
 plugin://plugin.video.youtube/?action=play_video&amp;videoid=J7Te1MzgQU0
 #EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/filem_zpsqk2wdmgi.png" group-title="60an", Pileh Menantu (1963)
-http://streamin.to/embed-6r2ebcqmzlbm-728x410.html
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=pL0MaAnzdtQ
 #EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/filem_zpsqk2wdmgi.png" group-title="60an", Pontianak Gua Musang (1964)
 plugin://plugin.video.youtube/?action=play_video&amp;videoid=f1Z6utQMDLk
 #EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/filem_zpsqk2wdmgi.png" group-title="70an", Prebet Lapok (1979)
@@ -493,7 +493,7 @@ plugin://plugin.video.youtube/?action=play_video&amp;videoid=vCW26kvkx1c
 #EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/filem_zpsqk2wdmgi.png" group-title="60an", Pusaka Pontianak (1965)
 plugin://plugin.video.youtube/?action=play_video&amp;videoid=EGATGRihwAo
 #EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/filem_zpsqk2wdmgi.png" group-title="50an", Putera Bertopeng (1957)
-http://streamin.to/embed-8nrt9yis7uxt-728x410.html
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=o0hg5TNa6ew
 #EXTINF:-0, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/filem_zpsqk2wdmgi.png" group-title="80an", Puteri (1987)
 http://streamin.to/embed-uce5ziiwpcpy-728x410.html
 #EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/filem_zpsqk2wdmgi.png" group-title="60an", Puteri Gunung Ledang (1961)
@@ -529,7 +529,7 @@ plugin://plugin.video.youtube/?action=play_video&amp;videoid=pgutF1zI-eU
 #EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/filem_zpsqk2wdmgi.png" group-title="50an", Satay (1958)
 plugin://plugin.video.youtube/?action=play_video&amp;videoid=OipKOnq4bWo
 #EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/filem_zpsqk2wdmgi.png" group-title="70an", Satria (1972)
-http://streamin.to/embed-2xpbtwb10ec1-728x410.html
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=nQLJMujOCSk
 #EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/filem_zpsqk2wdmgi.png" group-title="50an", Saudagar Minyak Urut (1959)
 plugin://plugin.video.youtube/?action=play_video&amp;videoid=PNa3JPtijyU
 #EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/filem_zpsqk2wdmgi.png" group-title="80an", Sayang (1987)
@@ -574,7 +574,7 @@ plugin://plugin.video.youtube/?action=play_video&amp;videoid=VrLS5GTqhcI
 plugin://plugin.video.youtube/?action=play_video&amp;videoid=i_kd-tOil9w
 #EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/filem_zpsqk2wdmgi.png" group-title="80an", Suara Kekasih (1986)
 plugin://plugin.video.youtube/?action=play_video&amp;videoid=rYsBAq0ykcY
-#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/filem_zpsqk2wdmgi.png" group-title="80an", Sumpah Di Bumi Merkah (1981)
+#EXTINF:-0, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/filem_zpsqk2wdmgi.png" group-title="80an", Sumpah Di Bumi Merkah (1981)
 http://streamin.to/embed-os2yqhiff6w1-728x410.html
 #EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/filem_zpsqk2wdmgi.png" group-title="50an", Sumpah Orang Minyak (1958)
 plugin://plugin.video.youtube/?action=play_video&amp;videoid=-WMiVpIgINo
