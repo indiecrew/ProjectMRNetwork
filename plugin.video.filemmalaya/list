@@ -4,6 +4,22 @@
 http://c13.vidlox.tv/hls/,oudvhbd3l5tk2yixv74oeujel4vapufklhoaqezrt7fmxgjqa77vzuhlxqla,.urlset/master.m3u8
 #EXTINF:-1, tvg-logo="http://pencurimovie.ph/wp-content/uploads/2016/11/kecoh-primadona-kena-hantu.jpg" group-title="Now", Kecoh! Primadona Kena Hantu (2016)
 http://streamin.to/embed-bfgjsd0mmx52-728x410.html
+#EXTINF:-1, tvg-logo="http://www.cinema.com.my/images/movies/2015/7pekak00_450.jpg" group-title="Now", Pekak (2016)
+https://uptostream.com/iframe/pbu2437mv4z4
+#EXTINF:-1, tvg-logo="http://www.cinema.com.my/images/movies/2016/7juvana300_450.jpg" group-title="Now", Juvana 3: Perhitungan Terakhir (2016)
+http://thevideos.tv/embed-wfspir727hda-728x410.html
+#EXTINF:-1, tvg-logo="http://pencurimovie.ph/wp-content/uploads/2016/10/volkswagen-kuning.jpg" group-title="Now", Volkswagen Kuning (2016)
+http://streamin.to/embed-jb2ac93jh134-728x410.html
+#EXTINF:-1, tvg-logo="https://i.imgur.com/pRSUuFO.jpg" group-title="Now", Alif Tujuh Dimensi (2016)
+http://streamin.to/embed-q7pc0vblwovb-728x410.html
+#EXTINF:-1, tvg-logo="https://1.bp.blogspot.com/-4bPxVS9QSnY/VzCqoG6PeJI/AAAAAAAABoM/xEf6rovxYh0gpYC7aT1hUwlkZcV0p7BvQCLcB/s1600/Mix-34.JPG" group-title="Now", Judi Judi King Bos (2016)
+https://uptostream.com/iframe/gpwdkf470zdf
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/B_E4ThCU8AAKFSP.jpg" group-title="Now", Mirip (2016)
+http://streamin.to/embed-1h7g5nqqrybv-728x410.html
+#EXTINF:-1, tvg-logo="http://babab.net/img/kampung-drift-kisah-seorang-drifter-kampung.jpg" group-title="Now", Kampung Drift (2016)
+http://www.dailymotion.com/embed/video/k7o7TD9wKWCBwTjswYz?logo=0&info=0
+#EXTINF:-1, tvg-logo="http://www.cinema.com.my/images/movies/2016/7dukundrdani00_450.jpg" group-title="Now", Dukun Doktor Dani (2016)
+http://uptostream.com/iframe/cxb3afomh6rl
 #EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/filem_zpsqk2wdmgi.png" group-title="50an", Kaseh Sayang (1957)
 plugin://plugin.video.youtube/?action=play_video&amp;videoid=QN7fxnVvnq0
 #EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/filem_zpsqk2wdmgi.png" group-title="60an", Dosa Wanita (1967)
