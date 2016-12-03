@@ -58,7 +58,7 @@
     	<source>https://github.com/indiecrew</source>
     </extension>
 </addon>
-<addon id="plugin.video.filemmalaya" name="filem malaya" version="0.0.3" provider-name="indiecrew">
+<addon id="plugin.video.filemmalaya" name="filem malaya" version="0.0.4" provider-name="indiecrew">
     <requires>
         <import addon="xbmc.python" version="2.1.0"/>
         <import addon="script.module.urlresolver" optional="true"/>
