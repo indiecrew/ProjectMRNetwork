@@ -20,10 +20,208 @@ http://streamin.to/embed-1h7g5nqqrybv-728x410.html
 http://www.dailymotion.com/embed/video/k7o7TD9wKWCBwTjswYz?logo=0&info=0
 #EXTINF:-1, tvg-logo="http://www.cinema.com.my/images/movies/2016/7dukundrdani00_450.jpg" group-title="Now", Dukun Doktor Dani
 http://uptostream.com/iframe/cxb3afomh6rl
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", AMUK - Aku Mahu Pulang
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=XgDX--MlN6w
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", SEARCH - Mentari Merah Di Ufuk Timur
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=I-HKUj9Zi10
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", FAHRENHEIT - Menuju Garisan
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=u3Adzb0WPGk
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", ELLA - Permata Biru
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=eVAEeLiirIM
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", UKAYS - Kau Satu-Satunya
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=1ZszOmQ9664
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", NASH - Pada Syurga Di Wajah Mu
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=YQ4iimzVzA8
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", XPDC - Semangat Yang Hilang
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=oWG0FE55-jA
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", SANTEEKEE - Realiti Insan
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=GtiH268QawM
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", BPR - Silaturrahim
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=xJ1Pc2ddJiQ
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", SLAM - Nurkasih
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=cRASJvFgv-s
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", ANN - Cinta Melankolia
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=E1FHvk02Doc
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", MEGA - Pasti
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=eLc7q705bm0
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", U-TOPIA - Disini Pasti
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=L_R0f9Y7z-k
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", TERRAROSSA - Gering
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=HQjlBzPdBLQ
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", LEFTHANDED - Ku Dihalaman Rindu
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=nCN-2jfiPVY
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", SWEET CHARITY - Kamelia
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=UvIaNlgCiK8
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", IKLIM - Bukan Aku Tak Cinta
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=aXAaB2E3mEc
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", WINGS - Sejati
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=yAH2olRKQ5c
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", ELLA - Layar Impian
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=jdw3If2-Mzk
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", SEARCH - Isabella
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=FjqTuOTldLE
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", KALAHARI - Kesucian Cinta Tiada Tandingan
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=Ls4KmaemRKI
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", FEBIANS - Penantian
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=FRhvExkgFUE
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", SEARCH - Fantasia Bulan Madu
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=DfxCSDBabPE
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", STINGS - Usah Dengar Kata Orang
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=mIz4SvTGWvY
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", ANALISA - Lakaran Cinta Suci
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=8xcRB1ZPeSc
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", SWEET CHILD - Kau Guriskan Perasaan
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=G60AP1HySOA
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", SUP - Rintihan Jiwa
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=JDXnolgkHY4
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", SUCCESS - Ku Basuh Luka Dengan Airmata
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=xWyn95q3G4c
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", ARROW - Tak Percaya Tak Apa
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=qHszNLYdZw4
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", SPOON - Memori Sekuntum Rindu
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=a9mFWVspki0
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", UNWANTED - Masih Ada Rindu
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=l5qHvxLEEbg
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", CRASH - Abadikan Salam
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=GpiMnJPQ330
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", SOFEA - Bunga Padang Pasir
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=lu2yByPSWg0
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", ELLA - Sembilu
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=2YIFfDDTiqA
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", GET - Pertama Dan Terakhir
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=uHn0Ui2G2ng
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", CROSSFIRE - Realiti Dan Fantasi
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=w1LOs7Z0ge0
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", UG14 - Bunga Larangan
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=tO8ixFFBNQg
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", TEJA - Kau Yang Tak Mengerti
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=R7Et_kHu8PA
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", BLACKROSE - Penantian
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=kZhvPZ7QoGQ
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", HANDY BLACK - Tangan Hitam
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=WtPVxCtTYdU
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", GERSANG - Masih Aku Terasa
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=-xT_qByQ2W8
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", RUSTY BLADE - Penantian
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=ZnPgpAFQTpc
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", CANDY - Akan Ku Tunggu
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=0liWE4AKChc
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", TERRAROSSA - Bunga Angkasa
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=XjfI3ZaO27Q
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", U-TOPIA - Mithali Cintaku
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=CMM8AB1_zBM
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", BPR - Seribu Tahun Takkan Mungkin
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=YIWkx9zGgSY
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", MAY - Sendiri
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=5WGmmyYUTzQ
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", XPDC - C.I.N.T.A
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=NFhJUiuHdYU
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", KRIS - Tiara
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=w0bd_ldl474
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", MEGA - Takdir Dan Waktu
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=-Fl3eigZ0g8
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", WOW - Engkau Tetap Satu
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=-jPJ0FTZK-A
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", JELMOL - Rinduku Tiada Berteman
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=dU9Pkb-oWCM
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", KULIT - Sedih Aku Pedih
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=___CVJKviNs
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", GRAVITY - Kasih Di Rundung Mega
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=Ufz0IP9a7FU
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", SLAM - Mentari Muncul Lagi
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=AMe1zz5moGk
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", LELA - Bidadari
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=Fw4hdJ8pS-4
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", SPOON - Rindu Serindu-Rindunya
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=TXWXAi2RPTs
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", UKAYS - Pahit Akan Manis Akhirnya
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=W8RflBdGLMw
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", ARROW - Niat Hati Tak Nak Berpisah
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=6MK1eXjNYrM
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", LAKSAMANA - Gugurnya Bunga Cinta
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=3icBO5TOIL4
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", SCAN - Kau Dipaksa Aku Terpaksa
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=IaJ98_xJPQ0
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", SCREEN - Orang Yang Ku Sayang-Sayang
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=cyoBVT83RtY
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", EYE - Satu Nama Tetap Dihati
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=HyNM10oSlHk
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", STINGS - Adakah Kau Setia
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=P7VHi6TAWEs
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", LESTARI - Mahligaimu Dari Airmataku
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=AnfND7E0JvA
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", DATA - Nyanyian Rindu Buat Kekasih
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=xdowXO6rhhY
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", KRISTAL - Cinta Tiga Segi
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=qCyh3L7CVqQ
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", MEDITASI - Bidadari
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=aBFPzvZ7aVs
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", LELA - Sampai Bila
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=Go7CHnScPdA
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", MEDICINE - Tika Dan Saat Ini
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=nLLN5wFzX-w
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", XPDC - Teman
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=17LY7yoZLuQ
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", OLAN - Hiasan
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=Cl9gnPCi5z4
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", DINAMIK - Antara Gadis
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=iYxNm7NKAgE
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", FEBIANS - Untukmu Sayang
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=-dRuVofzWrA
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", MASSA - Amanda Gadisku
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=gYfKz1EEiB4
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", WINGS - Belenggu Irama
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=HVuOL0LjlQ4
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", OLAN - Kesucian Seribu Impian
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=64QM0V-Bi_c
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", FEBIANS - Bayangan Cinta
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=Pb-hhNSE9x0
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", WINGS - Taman Rashidah Utama
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=uX6kEopMp4E
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", DINAMIK - Biar Putih Tulang
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=9Anax_iiyjs
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", MASSA - Patahnya Sayap Malam
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=-RBHVADJXnk
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", BUDAK KACAMATA - Bintang
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=8HVZCR3JY5Y
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", BUDAK KACAMATA - Cinta Tak Perlu Dipaksa
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=24J2mZB76lc
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", DAMASUTRA - Sesat Dalam Rindu
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=udrmLZHpyj8
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", DAMASUTRA - Sufi
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=6PgMd4PPDV8
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", SCAN - Disana Mawar Disini Penawar
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=39UsRIczvnY
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", SCAN - Kau Dipaksa Aku Terpaksa
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=HEE0ZOtwYAM
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", UG14 - Selamat Tinggal Bunga Larangan
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=m7vAPPnVnMk
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", UG14 - Bunga Larangan
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=iq3-kc1rIMY
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", ARROW - Aku Tak Marah
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=uMbu21Zjbw8
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", ARROW - Insan Terpilih
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=pDl-cmmb4j4
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", GAMMA - Bahang Asmara
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=GRrf1SVJ_zc
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", GAMMA - Kembang Terhalang
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=eXO7KRidl-I
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", CROSSFIRE - Fatamorgana
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=JeyNbOWApVM
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", CROSSFIRE - Realiti Dan Fantasi
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=OtDMJhoS19c
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", PUTRA - Nazira
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=4-SjGUSWyBY
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", PUTRA - Cinta Kain Putih
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=1cnBvO4OP5U
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", MEDITASI - Bidadari
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=PLLEfmA8FWU
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", MEDITASI - Biar Pedih Kasih Memanjang
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=S5GQYCp0seo
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", MEGA - Takdir Dan Waktu
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=tfU_XWW5XHw
 #EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", MEGA - Sekuntum Bunga Sakura Di Gurun Sahara
 plugin://plugin.video.youtube/?action=play_video&amp;videoid=brk0uzhuE3s
-#EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", EKAMATRA - Siapa Dihatimu
-plugin://plugin.video.youtube/?action=play_video&amp;videoid=VPr1axBd6SY
 #EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", EKAMATRA - Rajuk
 plugin://plugin.video.youtube/?action=play_video&amp;videoid=jtuowrF0qes
 #EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", SWEET CHILD - Yang Terlarang Itu Godaan
@@ -32,8 +230,6 @@ plugin://plugin.video.youtube/?action=play_video&amp;videoid=TAUwov9FwXE
 plugin://plugin.video.youtube/?action=play_video&amp;videoid=cyanG5wxNIs
 #EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", OLAN - Kenangan Semalam
 plugin://plugin.video.youtube/?action=play_video&amp;videoid=h4ErRcHMuvM
-#EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", OLAN - Cinta Bandar Tasik Selatan
-plugin://plugin.video.youtube/?action=play_video&amp;videoid=zTAWCTTAA_M
 #EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", GRAVITY - Sinambungan Cinta
 plugin://plugin.video.youtube/?action=play_video&amp;videoid=CIH4fD4Oiho
 #EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", GRAVITY - Kasih Di Rundung Mega
