@@ -34,8 +34,6 @@ plugin://plugin.video.youtube/?action=play_video&amp;videoid=Z61Egb0VyEQ
 plugin://plugin.video.youtube/?action=play_video&amp;videoid=MDBgkp3QfC4
 #EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", RAMLI SARIP - Jikalau Berkasih
 plugin://plugin.video.youtube/?action=play_video&amp;videoid=fS0b16nN3W8
-#EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", RAMLI SARIP - Teratai
-plugin://plugin.video.youtube/?action=play_video&amp;videoid=fEI03dB-vcw
 #EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", RAMLI SARIP - Blues Felda Blues
 plugin://plugin.video.youtube/?action=play_video&amp;videoid=S_9rDS0m8MY
 #EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", RAMLI SARIP - Batu
