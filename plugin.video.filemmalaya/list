@@ -28,8 +28,6 @@ plugin://plugin.video.youtube/?action=play_video&amp;videoid=z89seySD9rM
 plugin://plugin.video.youtube/?action=play_video&amp;videoid=a9etKpvzXFU
 #EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", EKAMATRA - Ku Lepaskan Rindu
 plugin://plugin.video.youtube/?action=play_video&amp;videoid=GKKcOvvzW78
-#EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", GRAVITY - Kasih Dirundung Mega
-plugin://plugin.video.youtube/?action=play_video&amp;videoid=LEbdI3D21UU
 #EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", QIARA - Menyesal
 plugin://plugin.video.youtube/?action=play_video&amp;videoid=yELc-SsszBY
 #EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", UMBRELLA - Bukalah Hatimu
@@ -66,8 +64,6 @@ plugin://plugin.video.youtube/?action=play_video&amp;videoid=x_WVJbTYv_U
 plugin://plugin.video.youtube/?action=play_video&amp;videoid=utpayd_WLLU
 #EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", AMUK - Dalam Semak
 plugin://plugin.video.youtube/?action=play_video&amp;videoid=pYXPxQsd0aY
-#EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", MAY - Dari Kaca Mata
-plugin://plugin.video.youtube/?action=play_video&amp;videoid=wDNsGU9WtWo
 #EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", BPR - Dajjal
 plugin://plugin.video.youtube/?action=play_video&amp;videoid=JXs-9qENzA8
 #EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", ELLA - Puteri Kota
@@ -142,8 +138,6 @@ plugin://plugin.video.youtube/?action=play_video&amp;videoid=YipElZ8nyl8
 plugin://plugin.video.youtube/?action=play_video&amp;videoid=Vdfj2tVJaog
 #EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", EYE - Harapan Sakti
 plugin://plugin.video.youtube/?action=play_video&amp;videoid=TkpSYvQI52s
-#EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", EYE - Izinkan Selamanya Namamu Dihati
-plugin://plugin.video.youtube/?action=play_video&amp;videoid=nZXLcoMs5To
 #EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", EYE - Terlerai Sebuah Impian
 plugin://plugin.video.youtube/?action=play_video&amp;videoid=kQykHTwtSrA
 #EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", EYE - Cinta Sehala
@@ -504,8 +498,6 @@ plugin://plugin.video.youtube/?action=play_video&amp;videoid=k71cjP9M3V8
 plugin://plugin.video.youtube/?action=play_video&amp;videoid=LLJ-QikmZbU
 #EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", MAY - Ku Dalam Dilemma
 plugin://plugin.video.youtube/?action=play_video&amp;videoid=kusQ1mBN8mc
-#EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", MAY - Sketsa Sebuah Cinta
-plugin://plugin.video.youtube/?action=play_video&amp;videoid=169izWh5sGA
 #EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", MAY - Gadis Bertudung Putih
 plugin://plugin.video.youtube/?action=play_video&amp;videoid=_eBLjfDTV_k
 #EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", MAY - Sinar
@@ -680,8 +672,6 @@ plugin://plugin.video.youtube/?action=play_video&amp;videoid=n7X_pIjwK4w
 plugin://plugin.video.youtube/?action=play_video&amp;videoid=1Chzzl9_Vno
 #EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", UKAYS - Sebak
 plugin://plugin.video.youtube/?action=play_video&amp;videoid=wYhtss1JTIU
-#EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", SPRING - Bourgenvilla
-plugin://plugin.video.youtube/?action=play_video&amp;videoid=nJHhkSvofkQ
 #EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", UKAYS - Disana Menanti Disini Menunggu
 plugin://plugin.video.youtube/?action=play_video&amp;videoid=-njlGRCkflc
 #EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", SPRING - Sampai Hati
