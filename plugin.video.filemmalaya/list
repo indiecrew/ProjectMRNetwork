@@ -20,6 +20,8 @@ https://uptostream.com/iframe/gpwdkf470zdf
 http://streamin.to/embed-1h7g5nqqrybv-728x410.html
 #EXTINF:-1, tvg-logo="http://babab.net/img/kampung-drift-kisah-seorang-drifter-kampung.jpg" group-title="Now", Kampung Drift
 http://www.dailymotion.com/embed/video/k7o7TD9wKWCBwTjswYz?logo=0&info=0
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", [B][I][COLOR lightgreen]Last Update: 5th December 2016[/COLOR][/I][/B]
+http://ignoreme
 #EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", LESTARI - Bumi Bertuah
 plugin://plugin.video.youtube/?action=play_video&amp;videoid=DuFNi74fwC4
 #EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", LESTARI - Impian Kasih
@@ -28,8 +30,6 @@ plugin://plugin.video.youtube/?action=play_video&amp;videoid=0hnUxpvzX-E
 plugin://plugin.video.youtube/?action=play_video&amp;videoid=DovnbMzvEp0
 #EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", LESTARI - Biar Pedih Hati Terhiris
 plugin://plugin.video.youtube/?action=play_video&amp;videoid=Z61Egb0VyEQ
-#EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", LESTARI - Sekelip Mata Kau Berubah
-plugin://plugin.video.youtube/?action=play_video&amp;videoid=9iFzR_RQmD4
 #EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", RAMLI SARIP - Penunggu
 plugin://plugin.video.youtube/?action=play_video&amp;videoid=MDBgkp3QfC4
 #EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", RAMLI SARIP - Jikalau Berkasih
@@ -114,8 +114,6 @@ plugin://plugin.video.youtube/?action=play_video&amp;videoid=xN3Pv1F0da8
 plugin://plugin.video.youtube/?action=play_video&amp;videoid=4GMspvzmRUo
 #EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", LEGACY - Dua Jiwa Satu Hati
 plugin://plugin.video.youtube/?action=play_video&amp;videoid=N0-Oy0JKlOg
-#EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", DAMASUTRA - Asyik
-plugin://plugin.video.youtube/?action=play_video&amp;videoid=hKRVJT636YE
 #EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", IKLIM - Bukan Niatku
 plugin://plugin.video.youtube/?action=play_video&amp;videoid=4-QiEhVSsNI
 #EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", EYE - Izinkan Selamanya Namamu Dihati
@@ -142,8 +140,6 @@ plugin://plugin.video.youtube/?action=play_video&amp;videoid=JsNxO--VVyo
 plugin://plugin.video.youtube/?action=play_video&amp;videoid=1LHU6zDjCTU
 #EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", XPDC - Hairan Bin Ajaib
 plugin://plugin.video.youtube/?action=play_video&amp;videoid=-zlOTykNgpk
-#EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", BPR - Silatulrahim
-plugin://plugin.video.youtube/?action=play_video&amp;videoid=Wb2FUxchMMM
 #EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", HELTER SKELTER - Melissa
 plugin://plugin.video.youtube/?action=play_video&amp;videoid=TYROuNnAH10
 #EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", LEON - Merisik Rindu
@@ -414,8 +410,6 @@ plugin://plugin.video.youtube/?action=play_video&amp;videoid=gCco2ut-a6Y
 plugin://plugin.video.youtube/?action=play_video&amp;videoid=u7Li73-8uR8
 #EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", SEARCH - Sebatang Tongkat Untuk Berdiri
 plugin://plugin.video.youtube/?action=play_video&amp;videoid=_NuHUfbMrYM
-#EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", SEARCH - Mentari Merah Di Ufuk Timur
-plugin://plugin.video.youtube/?action=play_video&amp;videoid=KCztZ9e3_YQ
 #EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", SEARCH - Gadisku
 plugin://plugin.video.youtube/?action=play_video&amp;videoid=4pM9iEqgNMY
 #EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", SEARCH - Kejora
