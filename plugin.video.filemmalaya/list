@@ -20,6 +20,10 @@ https://uptostream.com/iframe/gpwdkf470zdf
 http://streamin.to/embed-1h7g5nqqrybv-728x410.html
 #EXTINF:-1, tvg-logo="http://babab.net/img/kampung-drift-kisah-seorang-drifter-kampung.jpg" group-title="Now", Kampung Drift
 http://www.dailymotion.com/embed/video/k7o7TD9wKWCBwTjswYz?logo=0&info=0
+#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/filem_zpsqk2wdmgi.png" group-title="70an", Bujang Tua S.S. (1974)
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=9TK6zactou4
+#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/filem_zpsqk2wdmgi.png" group-title="60an", Dajal Suchi (1965)
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=8xCOBXESXtg
 #EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/filem_zpsqk2wdmgi.png" group-title="70an", Aku Mahu Hidup (1970)
 plugin://plugin.video.youtube/?action=play_video&amp;videoid=5Fe0CxZ_jVE
 #EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", [B][I][COLOR lightgreen]Last Update: 5th December 2016[/COLOR][/I][/B]
@@ -1158,8 +1162,8 @@ plugin://plugin.video.youtube/?action=play_video&amp;videoid=CfDpye4FiCY
 http://streamin.to/embed-cvf37ymchrkm-728x410.html
 #EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/filem_zpsqk2wdmgi.png" group-title="80an", Balik Kampung (1986)
 plugin://plugin.video.youtube/?action=play_video&amp;videoid=_p3qgcnQXds
-#EXTINF:-0, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/filem_zpsqk2wdmgi.png" group-title="80an", Bas Konduktor (1986)
-http://streamin.to/embed-bhizu5j6mva6-728x410.html
+#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/filem_zpsqk2wdmgi.png" group-title="80an", Bas Konduktor (1986)
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=BO6w2zcz0pk
 #EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/filem_zpsqk2wdmgi.png" group-title="50an", Batu Belah Batu Bertangkup (1959)
 plugin://plugin.video.youtube/?action=play_video&amp;videoid=bsqBNfu0jok
 #EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/filem_zpsqk2wdmgi.png" group-title="60an", Batu Durhaka (1962)
