@@ -1,3 +1,7 @@
+[B]Version 0.0.5[/B]
+
+- A few updates to make Filem Malaya even better
+
 [B]Version 0.0.4[/B]
 
 - Add latest telefilm section
