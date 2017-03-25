@@ -1116,7 +1116,7 @@ plugin://plugin.video.youtube/?action=play_video&amp;videoid=9nD2_pt6sbk
 plugin://plugin.video.youtube/?action=play_video&amp;videoid=75LLb6XSTgc
 #EXTINF:-1, tvg-logo="https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg" group-title="Karok", BAJI - A.I.A ( Ayah Ibu Anak)
 plugin://plugin.video.youtube/?action=play_video&amp;videoid=xana_Q7HH44
-#EXTINF:-1, tvg-logo="http://img.freeflagicons.com/thumb/round_icon/malaysia/malaysia_640.png" group-title="tvmal", [B][I][COLOR lightgreen]Last Update: October 2016[/COLOR][/I][/B]
+#EXTINF:-1, tvg-logo="http://img.freeflagicons.com/thumb/round_icon/malaysia/malaysia_640.png" group-title="tvmal", [B][I][COLOR lightgreen]Last Update: March 2017[/COLOR][/I][/B]
 http://ignoreme
 #EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_tv1_zps8mlj4nck.png" group-title="tvmal", TV1
 http://rtm-live.glueapi.io/smil:rtmch001.smil/playlist.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
@@ -1131,7 +1131,7 @@ http://ignoreme
 #EXTINF:-0, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_tv9_zpsvy6n5ypz.png" group-title="tvmal", TV9
 http://ignoreme
 #EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_alhijrah_zps7om1g57e.png" group-title="tvmal", AL-HIJRAH
-http://tvah-cdn.mynexa.my/tvahlive/smil:tvahlivestream.smil/playlist.m3u8
+http://tvah-cdn.mynexa.my/tvahlive/smil:liveattvah.smil/chunklist_b736000_slen.m3u8
 #EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/tvi_zpsmwdrm674.png" group-title="tvmal", TVi
 http://rtm-live.glueapi.io/smil:rtmch003.smil/chunklist_b974000_sleng.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
 #EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/muzikaktif_zpswj4untkz.png" group-title="tvmal", MUZIK AKTIF
